@@ -1,0 +1,7 @@
+.env
+client_secrets.json
+token.pickle
+output/
+__pycache__/
+*.pyc
+*.pickle
