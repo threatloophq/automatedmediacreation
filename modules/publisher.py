@@ -30,7 +30,7 @@ def get_youtube_client():
             pickle.dump(creds, f)
     return build("youtube", "v3", credentials=creds)
 
-def publish_youtube(video_path, topic, script):
+def publish_youtube(video_path, topic, script, video_type="short"):
     youtube = get_youtube_client()
     body = {"snippet": {"title": topic[:90],
                         "description": f"{topic}\n\n{script[:300]}...\n\n#cybersecurity #ai #tech",

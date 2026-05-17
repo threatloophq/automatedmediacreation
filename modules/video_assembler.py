@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 log = logging.getLogger(__name__)
 
-def assemble_video(audio_path, image_paths, topic, script="", output_path="output/video_final.mp4"):
+def assemble_video(audio_path, image_paths, topic, script="", video_type="short", output_path="output/video_final.mp4"):
     os.makedirs("output", exist_ok=True)
     os.makedirs("output/slides", exist_ok=True)
     for f in os.listdir("output/slides"):
@@ -20,7 +20,7 @@ def assemble_video(audio_path, image_paths, topic, script="", output_path="outpu
 
     duration  = get_audio_duration(audio_path)
     n_images  = len(image_paths)
-    per_image = round(duration / n_images, 3)
+    per_image = round(duration / n_images, 3) if video_type == "short" else max(5.0, round(duration / n_images, 3))
     log.info(f"Audio: {duration:.1f}s | {n_images} images | {per_image:.1f}s each")
 
     hook_text = extract_hook(script, topic)

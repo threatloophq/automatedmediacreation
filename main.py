@@ -3,6 +3,7 @@ import json
 import shutil
 import logging
 import traceback
+import time
 from datetime import datetime
 from dotenv import load_dotenv
 
@@ -24,8 +25,16 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 STATUS_FILE = "docs/status.json"
 
+# Daily plan: 2 shorts + 2 long form
+DAILY_PLAN = [
+    {"type": "short",     "label": "Short 1"},
+    {"type": "short",     "label": "Short 2"},
+    {"type": "long_form", "label": "Long Form 1"},
+    {"type": "long_form", "label": "Long Form 2"},
+]
+
 def cleanup():
-    log.info("Cleaning up previous run...")
+    log.info("Cleaning up...")
     for f in ["output/voice.mp3", "output/video_final.mp4"]:
         if os.path.exists(f): os.remove(f)
     for d in ["output/images", "output/slides", "output/audio_parts"]:
@@ -40,18 +49,17 @@ def write_status(runs):
             with open(STATUS_FILE) as f:
                 existing = json.load(f).get("history", [])
         except: existing = []
-
     for run in runs:
         existing.insert(0, {
-            "last_run": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
+            "last_run":      datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
             "status":        run.get("status", "unknown"),
             "topic":         run.get("topic", ""),
             "pillar":        run.get("pillar", ""),
+            "video_type":    run.get("video_type", "short"),
             "youtube_url":   run.get("youtube_url", ""),
             "instagram_url": run.get("instagram_url", ""),
             "error":         run.get("error", ""),
         })
-
     last = runs[-1] if runs else {}
     with open(STATUS_FILE, "w") as f:
         json.dump({
@@ -64,22 +72,22 @@ def write_status(runs):
         }, f, indent=2)
     log.info(f"Status written → {STATUS_FILE}")
 
-def run_single(topic, summary, pillar, video_num):
+def run_single(topic, summary, pillar, video_type, label, num, total):
     result = {
         "status": "failed", "topic": topic,
-        "pillar": pillar,
+        "pillar": pillar, "video_type": video_type,
         "youtube_url": "", "instagram_url": "", "error": ""
     }
     try:
         log.info(f"{'='*60}")
-        log.info(f"VIDEO {video_num}/3 | PILLAR: {pillar}")
+        log.info(f"{label} ({num}/{total}) | {video_type.upper()} | PILLAR: {pillar}")
         log.info(f"TOPIC: {topic}")
         log.info(f"{'='*60}")
 
         cleanup()
 
         log.info("STEP 2 — Generating script...")
-        script = generate_script(topic, summary)
+        script = generate_script(topic, summary, video_type=video_type)
         log.info(f"Script: {len(script.split())} words")
 
         log.info("STEP 3 — Generating voiceover...")
@@ -90,67 +98,71 @@ def run_single(topic, summary, pillar, video_num):
         log.info(f"Images: {len(image_paths)}")
 
         log.info("STEP 5 — Assembling video...")
-        video_path = assemble_video(audio_path, image_paths, topic, script=script)
+        video_path = assemble_video(
+            audio_path, image_paths, topic,
+            script=script, video_type=video_type)
 
         log.info("STEP 6 — Uploading to YouTube...")
-        yt_url = publish_youtube(video_path, topic, script)
+        yt_url = publish_youtube(video_path, topic, script, video_type=video_type)
         result["youtube_url"] = yt_url
         log.info(f"YouTube: {yt_url}")
 
-        log.info("STEP 7 — Uploading to Instagram...")
+        log.info("STEP 7 — Instagram...")
         ig_url = publish_instagram(video_path, topic, script)
         result["instagram_url"] = ig_url
 
         result["status"] = "success"
-        log.info(f"Video {video_num}/3 complete! [{pillar}]")
+        log.info(f"{label} complete! ✅")
 
     except Exception as e:
         result["error"] = str(e)
         result["status"] = "failed"
-        log.error(f"Video {video_num}/3 failed: {e}")
+        log.error(f"{label} failed: {e}")
         log.error(traceback.format_exc())
 
     return result
 
 def run_pipeline():
-    log.info("Starting daily pipeline — 3 videos across different pillars")
+    log.info("Starting daily pipeline — 2 Shorts + 2 Long Form")
 
-    # Get 3 different pillars for this run
+    # Get 4 different pillars
     pillars = get_three_pillars()
-    log.info(f"Today's pillars: {pillars[0]} → {pillars[1]} → {pillars[2]}")
+    # Add one more pillar
+    from modules.pillar_tracker import PILLARS
+    extra = [p for p in PILLARS if p not in pillars]
+    pillars.append(extra[0] if extra else pillars[0])
+    log.info(f"Today's pillars: {pillars}")
 
     results = []
-    for i, pillar in enumerate(pillars, 1):
-        log.info(f"\nFetching news for pillar: {pillar}")
+    for i, plan in enumerate(DAILY_PLAN):
+        pillar = pillars[i % len(pillars)]
+        video_type = plan["type"]
+        label = plan["label"]
 
-        # Fetch top news for this specific pillar
+        log.info(f"\nFetching news for [{pillar}] — {video_type}")
         trends = get_top_trends(niche=pillar)
         if not trends:
-            log.warning(f"No trends for {pillar} — using fallback")
-            trends = [(f"Latest {pillar} breakthroughs you need to know in 2025", "")]
+            trends = [(f"Latest {pillar} breakthroughs in 2025", "")]
 
         topic, summary = trends[0] if isinstance(trends[0], tuple) else (trends[0], "")
 
-        # Run pipeline for this pillar
-        result = run_single(topic, summary, pillar, i)
+        result = run_single(topic, summary, pillar, video_type, label, i+1, len(DAILY_PLAN))
         results.append(result)
 
-        # Delay between videos
-        if i < 3:
-            import time
-            log.info("Waiting 15s before next video...")
-            time.sleep(15)
+        if i < len(DAILY_PLAN) - 1:
+            wait = 20 if video_type == "long_form" else 10
+            log.info(f"Waiting {wait}s before next video...")
+            time.sleep(wait)
 
-    # Write status
     write_status(results)
 
-    # Summary
     success = sum(1 for r in results if r["status"] == "success")
     log.info(f"\n{'='*60}")
-    log.info(f"DAILY RUN COMPLETE: {success}/3 videos posted")
+    log.info(f"DAILY RUN COMPLETE: {success}/{len(DAILY_PLAN)} videos posted")
     for i, r in enumerate(results, 1):
-        status_icon = "✅" if r["status"] == "success" else "❌"
-        log.info(f"  {status_icon} Video {i} [{r['pillar']}]: {r.get('youtube_url', r.get('error', ''))[:70]}")
+        icon = "✅" if r["status"] == "success" else "❌"
+        vtype = "📱SHORT" if r["video_type"] == "short" else "🎬LONG"
+        log.info(f"  {icon} {vtype} [{r['pillar']}]: {r.get('youtube_url', r.get('error',''))[:60]}")
     log.info(f"{'='*60}")
 
     return success > 0
