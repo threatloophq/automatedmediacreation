@@ -1,0 +1,47 @@
+name: AI Content Creator
+
+on:
+  schedule:
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  create-and-post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: v1
+          token: ${{ secrets.GH_TOKEN }}
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get install -y ffmpeg
+      - run: pip install pytrends google-api-python-client google-auth-httplib2 google-auth-oauthlib google-genai groq edge-tts moviepy Pillow requests feedparser python-dotenv gTTS
+      - run: echo "${{ secrets.YOUTUBE_TOKEN_PICKLE }}" | base64 -d > token.pickle
+      - name: Run pipeline
+        env:
+          GROQ_API_KEY:      ${{ secrets.GROQ_API_KEY }}
+          YOUTUBE_API_KEY:   ${{ secrets.YOUTUBE_API_KEY }}
+          PEXELS_API_KEY:    ${{ secrets.PEXELS_API_KEY }}
+          GH_TOKEN:          ${{ secrets.GH_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          NICHE:             ""
+        run: python main.py
+      - name: Update dashboard
+        if: always()
+        run: |
+          git config user.name "AI Content Bot"
+          git config user.email "bot@github-actions"
+          git add docs/status.json
+          git diff --staged --quiet || git commit -m "chore: update dashboard [skip ci]"
+          git push origin v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: video-${{ github.run_number }}
+          path: output/video_final.mp4
+          retention-days: 3
