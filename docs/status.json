@@ -1,10 +1,37 @@
 {
-  "last_run": "2026-05-04 07:57 UTC",
-  "status": "success",
-  "topic": "Top AI tools you need in 2025",
-  "youtube_url": "https://www.youtube.com/shorts/rRDMb_vF1yw",
+  "last_run": "2026-05-17 16:16 UTC",
+  "status": "failed",
+  "topic": "[Cybersecurity] Be Aware of such Frauds #awareness #brothersister #cybersecurity #onlinesafety",
+  "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-05-17 16:16 UTC",
+      "status": "failed",
+      "topic": "[Cybersecurity] Be Aware of such Frauds #awareness #brothersister #cybersecurity #onlinesafety",
+      "pillar": "Cybersecurity",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "generate_script() takes 1 positional argument but 2 were given"
+    },
+    {
+      "last_run": "2026-05-17 16:16 UTC",
+      "status": "failed",
+      "topic": "[Cloud] Create Scroll Stopping Thumbnails using Adobe Creative Cloud #adobe #design",
+      "pillar": "Cloud",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "generate_script() takes 1 positional argument but 2 were given"
+    },
+    {
+      "last_run": "2026-05-17 16:16 UTC",
+      "status": "failed",
+      "topic": "[AI] This AI Machine Changes Baby Diapers in Public",
+      "pillar": "AI",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "generate_script() takes 1 positional argument but 2 were given"
+    },
     {
       "last_run": "2026-05-04 07:57 UTC",
       "status": "success",
