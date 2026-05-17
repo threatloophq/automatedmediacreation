@@ -1,10 +1,18 @@
 {
-  "last_run": "2026-05-17 15:48 UTC",
-  "status": "failed",
+  "last_run": "2026-05-17 15:51 UTC",
+  "status": "success",
   "topic": "The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from",
-  "youtube_url": "",
+  "youtube_url": "https://www.youtube.com/shorts/jS9gjQ0QhR4",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-05-17 15:51 UTC",
+      "status": "success",
+      "topic": "The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from",
+      "youtube_url": "https://www.youtube.com/shorts/jS9gjQ0QhR4",
+      "instagram_url": "",
+      "error": ""
+    },
     {
       "last_run": "2026-05-17 15:48 UTC",
       "status": "failed",
