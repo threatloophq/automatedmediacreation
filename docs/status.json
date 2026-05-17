@@ -1,10 +1,18 @@
 {
-  "last_run": "2026-05-17 16:05 UTC",
+  "last_run": "2026-05-17 16:12 UTC",
   "status": "success",
   "topic": "The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from",
-  "youtube_url": "https://www.youtube.com/shorts/6eviHcJp2p4",
+  "youtube_url": "https://www.youtube.com/shorts/ITn-_VXh004",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-05-17 16:12 UTC",
+      "status": "success",
+      "topic": "The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from",
+      "youtube_url": "https://www.youtube.com/shorts/ITn-_VXh004",
+      "instagram_url": "",
+      "error": ""
+    },
     {
       "last_run": "2026-05-17 16:05 UTC",
       "status": "success",
@@ -234,14 +242,6 @@
       "status": "success",
       "topic": "what is cybersecurity",
       "youtube_url": "https://www.youtube.com/shorts/lLZONTtrw5A",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-03 19:52 UTC",
-      "status": "success",
-      "topic": "what is cybersecurity",
-      "youtube_url": "https://www.youtube.com/shorts/1Xt-G7tzmnY",
       "instagram_url": "",
       "error": ""
     }
