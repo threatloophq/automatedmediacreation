@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-05-18 11:30 UTC",
-  "status": "failed",
-  "topic": "Why trust is a big question at the Elon Musk-OpenAI trial",
-  "youtube_url": "",
+  "last_run": "2026-05-19 06:38 UTC",
+  "status": "success",
+  "topic": "2025 Cybercrime Report Shows Staggering Losses #security #warning #fraud",
+  "youtube_url": "https://www.youtube.com/shorts/TLXuW3X15wA",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-05-19 06:38 UTC",
+      "status": "success",
+      "topic": "2025 Cybercrime Report Shows Staggering Losses #security #warning #fraud",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "https://www.youtube.com/shorts/TLXuW3X15wA",
+      "instagram_url": "",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-19 06:38 UTC",
+      "status": "success",
+      "topic": "Cloud code: Conductor joins the rush toward remote coding agents",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "https://www.youtube.com/shorts/v0jfxee1X-s",
+      "instagram_url": "",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-19 06:38 UTC",
+      "status": "success",
+      "topic": "JBS Dev: On imperfect data and the AI last mile \u2013 from model capability to cost sustainability",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "https://www.youtube.com/shorts/KS0bVQW5pkI",
+      "instagram_url": "",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-19 06:38 UTC",
+      "status": "success",
+      "topic": "Build an AI Workflow in 60 Seconds (No Code!)",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "https://www.youtube.com/shorts/R2qixXw8m7s",
+      "instagram_url": "",
+      "error": ""
+    },
     {
       "last_run": "2026-05-18 11:30 UTC",
       "status": "failed",
@@ -231,30 +271,6 @@
       "youtube_url": "https://www.youtube.com/shorts/lLZONTtrw5A",
       "instagram_url": "",
       "error": ""
-    },
-    {
-      "last_run": "2026-05-03 19:52 UTC",
-      "status": "success",
-      "topic": "what is cybersecurity",
-      "youtube_url": "https://www.youtube.com/shorts/1Xt-G7tzmnY",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-03 19:50 UTC",
-      "status": "failed",
-      "topic": "what is cybersecurity",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-03 19:34 UTC",
-      "status": "failed",
-      "topic": "what is cybersecurity",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "[Errno 2] No such file or directory: 'client_secrets.json'"
     }
   ]
 }
