@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-05-22 06:37 UTC",
+  "last_run": "2026-05-23 05:58 UTC",
   "status": "success",
-  "topic": "After becoming cloud computing\u2019s telemetry standard, OpenTelemetry graduates into the AI infrastructure era",
-  "youtube_url": "https://www.youtube.com/shorts/Y1q3jBYGEP4",
+  "topic": "\uba38\uc2a4\ud06c, 226\uc870\uc6d0 \uc624\ud508 AI \uc18c\uc1a1 \ud328\uc18c",
+  "youtube_url": "https://www.youtube.com/shorts/Bg3vTQQJ8N4",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-05-23 05:58 UTC",
+      "status": "success",
+      "topic": "\uba38\uc2a4\ud06c, 226\uc870\uc6d0 \uc624\ud508 AI \uc18c\uc1a1 \ud328\uc18c",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "https://www.youtube.com/shorts/Bg3vTQQJ8N4",
+      "instagram_url": "",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-23 05:58 UTC",
+      "status": "success",
+      "topic": "AI Agents in CI/CD Pipelines: Speed vs Control in Modern DevOps",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "https://www.youtube.com/shorts/EWOyDUaN8ug",
+      "instagram_url": "",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-23 05:58 UTC",
+      "status": "success",
+      "topic": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "https://www.youtube.com/shorts/ho0T4-Y5BYM",
+      "instagram_url": "",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-23 05:58 UTC",
+      "status": "success",
+      "topic": "JetBrains is selling independence as the rest of AI coding picks sides",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "https://www.youtube.com/shorts/xWSQC7ch-b0",
+      "instagram_url": "",
+      "error": ""
+    },
     {
       "last_run": "2026-05-22 06:37 UTC",
       "status": "success",
@@ -262,39 +302,6 @@
       "youtube_url": "",
       "instagram_url": "",
       "error": "generate_script() takes 1 positional argument but 2 were given"
-    },
-    {
-      "last_run": "2026-05-17 16:16 UTC",
-      "status": "failed",
-      "topic": "[AI] This AI Machine Changes Baby Diapers in Public",
-      "pillar": "AI",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "generate_script() takes 1 positional argument but 2 were given"
-    },
-    {
-      "last_run": "2026-05-04 07:57 UTC",
-      "status": "success",
-      "topic": "Top AI tools you need in 2025",
-      "youtube_url": "https://www.youtube.com/shorts/rRDMb_vF1yw",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-04 07:55 UTC",
-      "status": "failed",
-      "topic": "Top AI tools you need in 2025",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-04 07:42 UTC",
-      "status": "success",
-      "topic": "Top AI tools you need in 2025",
-      "youtube_url": "https://www.youtube.com/shorts/jg5-Ch5sV4w",
-      "instagram_url": "",
-      "error": ""
     }
   ]
 }
