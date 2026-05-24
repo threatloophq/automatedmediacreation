@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-05-23 05:58 UTC",
+  "last_run": "2026-05-24 06:28 UTC",
   "status": "success",
-  "topic": "\uba38\uc2a4\ud06c, 226\uc870\uc6d0 \uc624\ud508 AI \uc18c\uc1a1 \ud328\uc18c",
-  "youtube_url": "https://www.youtube.com/shorts/Bg3vTQQJ8N4",
+  "topic": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+  "youtube_url": "https://www.youtube.com/shorts/RtS4qz1SJ6U",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-05-24 06:28 UTC",
+      "status": "success",
+      "topic": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "https://www.youtube.com/shorts/RtS4qz1SJ6U",
+      "instagram_url": "",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-24 06:28 UTC",
+      "status": "success",
+      "topic": "SolarSquare in talks to raise up to $60M as India\u2019s rooftop solar market draws major VC interest",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "https://www.youtube.com/shorts/Z8kJeDAkISQ",
+      "instagram_url": "",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-24 06:28 UTC",
+      "status": "success",
+      "topic": "The Two Rival Paths to AGI: Google\u2019s World Simulator vs. OpenAI\u2019s Reasoning Engine...",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "https://www.youtube.com/shorts/peCVMfNvAVI",
+      "instagram_url": "",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-24 06:28 UTC",
+      "status": "success",
+      "topic": "Every successful business starts with a powerful idea but growth happens with the right technology.",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "https://www.youtube.com/shorts/kW0E9EJdEfE",
+      "instagram_url": "",
+      "error": ""
+    },
     {
       "last_run": "2026-05-23 05:58 UTC",
       "status": "success",
@@ -264,44 +304,6 @@
       "youtube_url": "",
       "instagram_url": "",
       "error": "<HttpError 403 when requesting None returned \"The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.\". Details: \"[{'message': 'The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]\">"
-    },
-    {
-      "last_run": "2026-05-18 06:43 UTC",
-      "status": "failed",
-      "topic": "The hidden cost of build vs. buy for agentic AI in regulated industries",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "<HttpError 403 when requesting None returned \"The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.\". Details: \"[{'message': 'The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]\">"
-    },
-    {
-      "last_run": "2026-05-18 06:43 UTC",
-      "status": "failed",
-      "topic": "Your CI/CD Pipeline Has Non-Human Identities You Forgot About",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "<HttpError 403 when requesting None returned \"The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.\". Details: \"[{'message': 'The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]\">"
-    },
-    {
-      "last_run": "2026-05-17 16:16 UTC",
-      "status": "failed",
-      "topic": "[Cybersecurity] Be Aware of such Frauds #awareness #brothersister #cybersecurity #onlinesafety",
-      "pillar": "Cybersecurity",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "generate_script() takes 1 positional argument but 2 were given"
-    },
-    {
-      "last_run": "2026-05-17 16:16 UTC",
-      "status": "failed",
-      "topic": "[Cloud] Create Scroll Stopping Thumbnails using Adobe Creative Cloud #adobe #design",
-      "pillar": "Cloud",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "generate_script() takes 1 positional argument but 2 were given"
     }
   ]
 }
