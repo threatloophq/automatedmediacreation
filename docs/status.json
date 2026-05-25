@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-05-24 06:28 UTC",
-  "status": "success",
-  "topic": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-  "youtube_url": "https://www.youtube.com/shorts/RtS4qz1SJ6U",
+  "last_run": "2026-05-25 06:58 UTC",
+  "status": "failed",
+  "topic": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+  "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-05-25 06:58 UTC",
+      "status": "failed",
+      "topic": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
+    {
+      "last_run": "2026-05-25 06:58 UTC",
+      "status": "failed",
+      "topic": "A 0.12% parameter add-on gives AI agents the working memory RAG can't",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
+    {
+      "last_run": "2026-05-25 06:58 UTC",
+      "status": "failed",
+      "topic": "OpenTelemetry Achieves CNCF Graduated Project Status",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
+    {
+      "last_run": "2026-05-25 06:58 UTC",
+      "status": "failed",
+      "topic": "Hack at Beacon Mutual exposed data of 131K in RI; lawsuit filed",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
     {
       "last_run": "2026-05-24 06:28 UTC",
       "status": "success",
@@ -264,46 +304,6 @@
       "youtube_url": "https://www.youtube.com/shorts/Le5s1oj9ECA",
       "instagram_url": "",
       "error": ""
-    },
-    {
-      "last_run": "2026-05-18 11:30 UTC",
-      "status": "success",
-      "topic": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "https://www.youtube.com/shorts/ri_uBM3Cw0c",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-18 11:30 UTC",
-      "status": "success",
-      "topic": "Why AI is failing in the security operations center",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "https://www.youtube.com/shorts/Nfs8dM5aCmM",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-18 06:43 UTC",
-      "status": "failed",
-      "topic": "The Mac mini just became infrastructure",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "<HttpError 403 when requesting None returned \"The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.\". Details: \"[{'message': 'The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]\">"
-    },
-    {
-      "last_run": "2026-05-18 06:43 UTC",
-      "status": "failed",
-      "topic": "The haves and have nots of the AI gold rush",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "<HttpError 403 when requesting None returned \"The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.\". Details: \"[{'message': 'The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]\">"
     }
   ]
 }
