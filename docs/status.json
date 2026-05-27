@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-05-26 06:37 UTC",
+  "last_run": "2026-05-27 06:51 UTC",
   "status": "failed",
-  "topic": "Low-Code/No-Code in Microsoft 365: How Power Platform is Redefining Enterprise DevOps",
+  "topic": "How the AC/DC framework helps teams govern AI coding agents",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-05-27 06:51 UTC",
+      "status": "failed",
+      "topic": "How the AC/DC framework helps teams govern AI coding agents",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
+    {
+      "last_run": "2026-05-27 06:51 UTC",
+      "status": "failed",
+      "topic": "D&B's database of 642 million businesses was built for humans, not AI agents. So they rebuilt it.",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
+    {
+      "last_run": "2026-05-27 06:51 UTC",
+      "status": "failed",
+      "topic": "Who\u2019s monitoring the agents?",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
+    {
+      "last_run": "2026-05-27 06:51 UTC",
+      "status": "failed",
+      "topic": "Designing an AI-Powered DevSecOps Guardrail Pipeline Using GitHub Actions",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
     {
       "last_run": "2026-05-26 06:37 UTC",
       "status": "failed",
@@ -262,46 +302,6 @@
       "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "https://www.youtube.com/shorts/BH3YYM3FeSU",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-20 06:38 UTC",
-      "status": "success",
-      "topic": "CI/CD Was Built for Deterministic Software \u2014 Agents Just Broke the Model",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "https://www.youtube.com/shorts/3QHCIY5f0Yo",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-20 06:38 UTC",
-      "status": "success",
-      "topic": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "https://www.youtube.com/shorts/bkba4kp1Pik",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-19 06:38 UTC",
-      "status": "success",
-      "topic": "2025 Cybercrime Report Shows Staggering Losses #security #warning #fraud",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "https://www.youtube.com/shorts/TLXuW3X15wA",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-19 06:38 UTC",
-      "status": "success",
-      "topic": "Cloud code: Conductor joins the rush toward remote coding agents",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "https://www.youtube.com/shorts/v0jfxee1X-s",
       "instagram_url": "",
       "error": ""
     }
