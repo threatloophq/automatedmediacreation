@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-05-27 06:51 UTC",
+  "last_run": "2026-05-28 06:41 UTC",
   "status": "failed",
-  "topic": "How the AC/DC framework helps teams govern AI coding agents",
+  "topic": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-05-28 06:41 UTC",
+      "status": "failed",
+      "topic": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
+    {
+      "last_run": "2026-05-28 06:41 UTC",
+      "status": "failed",
+      "topic": "Sol Duara Readies Open Source Workflow Orchestration Platform for CD Foundation",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
+    {
+      "last_run": "2026-05-28 06:41 UTC",
+      "status": "failed",
+      "topic": "Patch Tuesday, April 2026 Edition",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
+    {
+      "last_run": "2026-05-28 06:41 UTC",
+      "status": "failed",
+      "topic": "How the AC/DC framework helps teams govern AI coding agents",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+    },
     {
       "last_run": "2026-05-27 06:51 UTC",
       "status": "failed",
@@ -262,46 +302,6 @@
       "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "https://www.youtube.com/shorts/ZAqIW3C3vcc",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-21 06:40 UTC",
-      "status": "success",
-      "topic": "Steve Yegge\u2019s AI agent orchestration project Gas Town comes to the cloud \u2014 and brings the Wasteland with it",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "https://www.youtube.com/shorts/zhbEyeN7_c0",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-21 06:40 UTC",
-      "status": "success",
-      "topic": "\ud83d\udea8 Elon Musk HUMILIATED In Court OpenAI Lawsuit COLLAPSES After Explosive Trial! \ud83e\udd16\ud83d\udd25",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "https://www.youtube.com/shorts/ay5M5xDH-m0",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-20 06:38 UTC",
-      "status": "success",
-      "topic": "Google\u2019s new AI agent can draft your emails, monitor your inbox and eventually spend your money",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "https://www.youtube.com/shorts/NmSBRXN_wv4",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-20 06:38 UTC",
-      "status": "success",
-      "topic": "Top 10 Best AI Tools for Business in 2026 \ud83e\udd2f#shorts #AI #AITools #Business #Productivity #education",
-      "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "https://www.youtube.com/shorts/BH3YYM3FeSU",
       "instagram_url": "",
       "error": ""
     }
