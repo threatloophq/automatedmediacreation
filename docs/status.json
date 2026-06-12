@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-05-28 06:41 UTC",
+  "last_run": "2026-06-12 07:11 UTC",
   "status": "failed",
-  "topic": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+  "topic": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-06-12 07:11 UTC",
+      "status": "failed",
+      "topic": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-12 07:11 UTC",
+      "status": "failed",
+      "topic": "Agentic development hinges on verification. For cloud-native software, that is a runtime problem.",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-12 07:11 UTC",
+      "status": "failed",
+      "topic": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-12 07:11 UTC",
+      "status": "failed",
+      "topic": "How to delegate 40% of tickets to AI",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-05-28 06:41 UTC",
       "status": "failed",
@@ -262,46 +302,6 @@
       "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "https://www.youtube.com/shorts/EYORvojXOI4",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-22 06:37 UTC",
-      "status": "success",
-      "topic": "At Google I/O 2026, Antigravity gets a new job description",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "https://www.youtube.com/shorts/ByWzjLqsFwI",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-22 06:37 UTC",
-      "status": "success",
-      "topic": "How to Create an AI Acceptable Use Policy",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "https://www.youtube.com/shorts/U2Q_0htI_Dk",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-21 06:40 UTC",
-      "status": "success",
-      "topic": "We Spent 15 Years Automating Infrastructure. Now We\u2019re Automating Decisions",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "https://www.youtube.com/shorts/Hoy8MJKazZw",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-21 06:40 UTC",
-      "status": "success",
-      "topic": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "https://www.youtube.com/shorts/ZAqIW3C3vcc",
       "instagram_url": "",
       "error": ""
     }
