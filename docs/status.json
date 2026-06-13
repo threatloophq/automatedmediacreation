@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-06-12 07:11 UTC",
+  "last_run": "2026-06-13 06:44 UTC",
   "status": "failed",
-  "topic": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
+  "topic": "Meta Business Agent drives AI-powered conversational commerce",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-06-13 06:44 UTC",
+      "status": "failed",
+      "topic": "Meta Business Agent drives AI-powered conversational commerce",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-13 06:44 UTC",
+      "status": "failed",
+      "topic": "Microsoft\u2019s open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-13 06:44 UTC",
+      "status": "failed",
+      "topic": "From Pilots to Performance: Why Enterprise Flow is the New Competitive Advantage",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-13 06:44 UTC",
+      "status": "failed",
+      "topic": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-06-12 07:11 UTC",
       "status": "failed",
@@ -262,46 +302,6 @@
       "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "https://www.youtube.com/shorts/EWOyDUaN8ug",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-23 05:58 UTC",
-      "status": "success",
-      "topic": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "https://www.youtube.com/shorts/ho0T4-Y5BYM",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-23 05:58 UTC",
-      "status": "success",
-      "topic": "JetBrains is selling independence as the rest of AI coding picks sides",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "https://www.youtube.com/shorts/xWSQC7ch-b0",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-22 06:37 UTC",
-      "status": "success",
-      "topic": "After becoming cloud computing\u2019s telemetry standard, OpenTelemetry graduates into the AI infrastructure era",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "https://www.youtube.com/shorts/Y1q3jBYGEP4",
-      "instagram_url": "",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-22 06:37 UTC",
-      "status": "success",
-      "topic": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "https://www.youtube.com/shorts/EYORvojXOI4",
       "instagram_url": "",
       "error": ""
     }
