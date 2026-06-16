@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-06-15 08:42 UTC",
+  "last_run": "2026-06-16 08:33 UTC",
   "status": "failed",
-  "topic": "AWS outage hits major enterprises worldwide",
+  "topic": "The AI off switch: How Anthropic\u2019s export controls sparked a global AI sovereignty scramble",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-06-16 08:33 UTC",
+      "status": "failed",
+      "topic": "The AI off switch: How Anthropic\u2019s export controls sparked a global AI sovereignty scramble",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-16 08:33 UTC",
+      "status": "failed",
+      "topic": "Ten Great DevOps Job Opportunities",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-16 08:33 UTC",
+      "status": "failed",
+      "topic": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-16 08:33 UTC",
+      "status": "failed",
+      "topic": "Your AI-generated app runs on their cloud, and that\u2019s the problem",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-06-15 08:42 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Russia Hacked Routers to Steal Microsoft Office Tokens",
       "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-26 06:37 UTC",
-      "status": "failed",
-      "topic": "Anthropic\u2019s $300M Stainless deal lands hardest on OpenAI and Google",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-26 06:37 UTC",
-      "status": "failed",
-      "topic": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-25 06:58 UTC",
-      "status": "failed",
-      "topic": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-25 06:58 UTC",
-      "status": "failed",
-      "topic": "A 0.12% parameter add-on gives AI agents the working memory RAG can't",
-      "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
