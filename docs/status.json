@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-06-16 08:33 UTC",
+  "last_run": "2026-06-19 07:45 UTC",
   "status": "failed",
-  "topic": "The AI off switch: How Anthropic\u2019s export controls sparked a global AI sovereignty scramble",
+  "topic": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-06-19 07:45 UTC",
+      "status": "failed",
+      "topic": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-19 07:45 UTC",
+      "status": "failed",
+      "topic": "Your AI pipeline is broken, and your dashboards don\u2019t know it",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-19 07:45 UTC",
+      "status": "failed",
+      "topic": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-19 07:45 UTC",
+      "status": "failed",
+      "topic": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-06-16 08:33 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "D&B's database of 642 million businesses was built for humans, not AI agents. So they rebuilt it.",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-27 06:51 UTC",
-      "status": "failed",
-      "topic": "Who\u2019s monitoring the agents?",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-27 06:51 UTC",
-      "status": "failed",
-      "topic": "Designing an AI-Powered DevSecOps Guardrail Pipeline Using GitHub Actions",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-26 06:37 UTC",
-      "status": "failed",
-      "topic": "Low-Code/No-Code in Microsoft 365: How Power Platform is Redefining Enterprise DevOps",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-26 06:37 UTC",
-      "status": "failed",
-      "topic": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
