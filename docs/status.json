@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-06-19 07:45 UTC",
+  "last_run": "2026-06-20 06:51 UTC",
   "status": "failed",
-  "topic": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
+  "topic": "\ud83d\udea8 OpenAI\u2019s $100B Lie",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-06-20 06:51 UTC",
+      "status": "failed",
+      "topic": "\ud83d\udea8 OpenAI\u2019s $100B Lie",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-20 06:51 UTC",
+      "status": "failed",
+      "topic": "How Block manages its fleet of AI coding agents from Slack",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-20 06:51 UTC",
+      "status": "failed",
+      "topic": "AWS Previews iOS App to Manage Kiro AI Coding Workflows",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-20 06:51 UTC",
+      "status": "failed",
+      "topic": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-06-19 07:45 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Sol Duara Readies Open Source Workflow Orchestration Platform for CD Foundation",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-28 06:41 UTC",
-      "status": "failed",
-      "topic": "Patch Tuesday, April 2026 Edition",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-28 06:41 UTC",
-      "status": "failed",
-      "topic": "How the AC/DC framework helps teams govern AI coding agents",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-27 06:51 UTC",
-      "status": "failed",
-      "topic": "How the AC/DC framework helps teams govern AI coding agents",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-27 06:51 UTC",
-      "status": "failed",
-      "topic": "D&B's database of 642 million businesses was built for humans, not AI agents. So they rebuilt it.",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
