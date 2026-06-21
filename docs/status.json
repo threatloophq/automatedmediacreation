@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-06-20 06:51 UTC",
+  "last_run": "2026-06-21 07:21 UTC",
   "status": "failed",
-  "topic": "\ud83d\udea8 OpenAI\u2019s $100B Lie",
+  "topic": "What Five Localization Pull Requests Revealed About Open Source Governance: A Field Report on Open Source\u2019s i18n Infrastructure Gap",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-06-21 07:21 UTC",
+      "status": "failed",
+      "topic": "What Five Localization Pull Requests Revealed About Open Source Governance: A Field Report on Open Source\u2019s i18n Infrastructure Gap",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-21 07:21 UTC",
+      "status": "failed",
+      "topic": "67% of Companies Already Breached by AI (Survey Results Shocking) #shorts",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-21 07:21 UTC",
+      "status": "failed",
+      "topic": "He made your free video player run smoothly. Now he\u2019s doing that for robots.",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-21 07:21 UTC",
+      "status": "failed",
+      "topic": "GPT-5.6 Pro LEAKED: Stealth Test Results + New Voice API Beats OpenAI",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-06-20 06:51 UTC",
       "status": "failed",
@@ -264,46 +304,6 @@
       "youtube_url": "",
       "instagram_url": "",
       "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-12 07:11 UTC",
-      "status": "failed",
-      "topic": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-12 07:11 UTC",
-      "status": "failed",
-      "topic": "How to delegate 40% of tickets to AI",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-05-28 06:41 UTC",
-      "status": "failed",
-      "topic": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
-    },
-    {
-      "last_run": "2026-05-28 06:41 UTC",
-      "status": "failed",
-      "topic": "Sol Duara Readies Open Source Workflow Orchestration Platform for CD Foundation",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
     }
   ]
 }
