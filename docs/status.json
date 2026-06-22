@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-06-21 07:21 UTC",
+  "last_run": "2026-06-22 08:44 UTC",
   "status": "failed",
-  "topic": "What Five Localization Pull Requests Revealed About Open Source Governance: A Field Report on Open Source\u2019s i18n Infrastructure Gap",
+  "topic": "Neoclouds, sovereign AI and Postgres: The new operating model for regulated enterprises",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-06-22 08:44 UTC",
+      "status": "failed",
+      "topic": "Neoclouds, sovereign AI and Postgres: The new operating model for regulated enterprises",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-22 08:44 UTC",
+      "status": "failed",
+      "topic": "EU publishes its AI content labelling playbook ahead of the AI Act\u2019s August deadline",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-22 08:44 UTC",
+      "status": "failed",
+      "topic": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-22 08:44 UTC",
+      "status": "failed",
+      "topic": "IaC Isn\u2019t Dying. AI Makes it More Important",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-06-21 07:21 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Microsoft\u2019s open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-13 06:44 UTC",
-      "status": "failed",
-      "topic": "From Pilots to Performance: Why Enterprise Flow is the New Competitive Advantage",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-13 06:44 UTC",
-      "status": "failed",
-      "topic": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-12 07:11 UTC",
-      "status": "failed",
-      "topic": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-12 07:11 UTC",
-      "status": "failed",
-      "topic": "Agentic development hinges on verification. For cloud-native software, that is a runtime problem.",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
