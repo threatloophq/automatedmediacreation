@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-06-23 06:38 UTC",
+  "last_run": "2026-06-24 06:35 UTC",
   "status": "failed",
-  "topic": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
+  "topic": "Tata Electronics Cyber Attack:Did World Leaks Hack Apple &amp; Tesla Trade Secrets? Full Story Explained",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-06-24 06:35 UTC",
+      "status": "failed",
+      "topic": "Tata Electronics Cyber Attack:Did World Leaks Hack Apple &amp; Tesla Trade Secrets? Full Story Explained",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-24 06:35 UTC",
+      "status": "failed",
+      "topic": "GitLab just surveyed 1,500 developers. Here\u2019s why it matters for your codebase.",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-24 06:35 UTC",
+      "status": "failed",
+      "topic": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-24 06:35 UTC",
+      "status": "failed",
+      "topic": "OpenClaw and Hermes agree on what an agent is. They disagree on what controls it.",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-06-23 06:38 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "42 states just opened an investigation into OpenAI \u2014 and 4 more AI stories",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-15 08:42 UTC",
-      "status": "failed",
-      "topic": "Your workflow might become the bottleneck",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-15 08:42 UTC",
-      "status": "failed",
-      "topic": "AI Is Here to Stay. The Real Challenge Is Operating It Securely",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-14 07:12 UTC",
-      "status": "failed",
-      "topic": "Anthropic Reverses Course on Hidden AI Restrictions Following Developer Backlash",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-14 07:12 UTC",
-      "status": "failed",
-      "topic": "After a ransomware attack, cyberattacks increased 300% in Nevada. Hear form the CIO.",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
