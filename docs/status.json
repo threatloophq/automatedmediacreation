@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-06-25 06:37 UTC",
+  "last_run": "2026-06-26 06:40 UTC",
   "status": "failed",
-  "topic": "\ud83e\uddd0\ud83d\udc49 20 Security Giants Now Resell OpenAI&#39;s Cyber AI #QixNewsAI",
+  "topic": "Akrites: The Latest Attempt to Protect Open-Source From AI Attacks Has Arrived",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-06-26 06:40 UTC",
+      "status": "failed",
+      "topic": "Akrites: The Latest Attempt to Protect Open-Source From AI Attacks Has Arrived",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-26 06:40 UTC",
+      "status": "failed",
+      "topic": "Amadey, StealC malware operations disrupted in Operation Endgame action",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-26 06:40 UTC",
+      "status": "failed",
+      "topic": "Public cloud vs. on-prem: Summit on where each workload belongs",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-26 06:40 UTC",
+      "status": "failed",
+      "topic": "Xiaomi's HarnessX rewrites its own AI scaffolding mid-task \u2014 and smaller models gain the most",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-06-25 06:37 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Your AI pipeline is broken, and your dashboards don\u2019t know it",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-19 07:45 UTC",
-      "status": "failed",
-      "topic": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-19 07:45 UTC",
-      "status": "failed",
-      "topic": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-16 08:33 UTC",
-      "status": "failed",
-      "topic": "The AI off switch: How Anthropic\u2019s export controls sparked a global AI sovereignty scramble",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-16 08:33 UTC",
-      "status": "failed",
-      "topic": "Ten Great DevOps Job Opportunities",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
