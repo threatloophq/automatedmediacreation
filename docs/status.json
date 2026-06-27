@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-06-26 06:40 UTC",
+  "last_run": "2026-06-27 06:11 UTC",
   "status": "failed",
-  "topic": "Akrites: The Latest Attempt to Protect Open-Source From AI Attacks Has Arrived",
+  "topic": "The AI agent identity problem nobody\u2019s talking about",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-06-27 06:11 UTC",
+      "status": "failed",
+      "topic": "The AI agent identity problem nobody\u2019s talking about",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-27 06:11 UTC",
+      "status": "failed",
+      "topic": "OpenAI Sunsets GPT-4.5 TODAY! What You Need To Know",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-27 06:11 UTC",
+      "status": "failed",
+      "topic": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-27 06:11 UTC",
+      "status": "failed",
+      "topic": "AI Coding Agents Are Pulling CI Feedback Into the Inner Loop",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-06-26 06:40 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "How Block manages its fleet of AI coding agents from Slack",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-20 06:51 UTC",
-      "status": "failed",
-      "topic": "AWS Previews iOS App to Manage Kiro AI Coding Workflows",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-20 06:51 UTC",
-      "status": "failed",
-      "topic": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-19 07:45 UTC",
-      "status": "failed",
-      "topic": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-19 07:45 UTC",
-      "status": "failed",
-      "topic": "Your AI pipeline is broken, and your dashboards don\u2019t know it",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
