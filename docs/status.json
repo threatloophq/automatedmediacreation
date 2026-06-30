@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-06-29 07:17 UTC",
+  "last_run": "2026-06-30 06:43 UTC",
   "status": "failed",
-  "topic": "Bajaj Auto Hit by a Ransomware Attack! \ud83d\udea8\ud83d\udd12",
+  "topic": "Gemini\u2019s personalized AI image generation is now free for US users",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-06-30 06:43 UTC",
+      "status": "failed",
+      "topic": "Gemini\u2019s personalized AI image generation is now free for US users",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-30 06:43 UTC",
+      "status": "failed",
+      "topic": "Greptile, Cursor, and Devin agree that agents should run their code. What they run it against matters.",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-30 06:43 UTC",
+      "status": "failed",
+      "topic": "Ten Great DevOps Job Opportunities",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-06-30 06:43 UTC",
+      "status": "failed",
+      "topic": "MIS605 Week 3 Disscussion Video",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-06-29 07:17 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "You Cannot Fake Flow: What Organizations Get Wrong About Value Delivery",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-23 06:38 UTC",
-      "status": "failed",
-      "topic": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-23 06:38 UTC",
-      "status": "failed",
-      "topic": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia\u2019s $20B not-acqui-hire deal",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-22 08:44 UTC",
-      "status": "failed",
-      "topic": "Neoclouds, sovereign AI and Postgres: The new operating model for regulated enterprises",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-22 08:44 UTC",
-      "status": "failed",
-      "topic": "EU publishes its AI content labelling playbook ahead of the AI Act\u2019s August deadline",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
