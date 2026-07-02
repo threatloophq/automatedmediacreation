@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-01 06:56 UTC",
+  "last_run": "2026-07-02 06:28 UTC",
   "status": "failed",
-  "topic": "Harness Adds Autonomous AI Agents to Automate DevOps Workflows",
+  "topic": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-02 06:28 UTC",
+      "status": "failed",
+      "topic": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-02 06:28 UTC",
+      "status": "failed",
+      "topic": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-02 06:28 UTC",
+      "status": "failed",
+      "topic": "Digital resilience compounds when AI and human expertise scale together",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-02 06:28 UTC",
+      "status": "failed",
+      "topic": "Cordyceps flaw pattern is more proof CI/CD is part of the attack surface",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-01 06:56 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "OpenClaw and Hermes agree on what an agent is. They disagree on what controls it.",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-25 06:37 UTC",
-      "status": "failed",
-      "topic": "Homebrew to Packages: No ID, No Service",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-25 06:37 UTC",
-      "status": "failed",
-      "topic": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-24 06:35 UTC",
-      "status": "failed",
-      "topic": "Tata Electronics Cyber Attack:Did World Leaks Hack Apple &amp; Tesla Trade Secrets? Full Story Explained",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-24 06:35 UTC",
-      "status": "failed",
-      "topic": "GitLab just surveyed 1,500 developers. Here\u2019s why it matters for your codebase.",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
