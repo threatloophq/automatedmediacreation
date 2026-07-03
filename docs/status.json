@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-02 06:28 UTC",
+  "last_run": "2026-07-03 06:15 UTC",
   "status": "failed",
-  "topic": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+  "topic": "Anthropic is discussing a new custom chip with Samsung",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-03 06:15 UTC",
+      "status": "failed",
+      "topic": "Anthropic is discussing a new custom chip with Samsung",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-03 06:15 UTC",
+      "status": "failed",
+      "topic": "OpenAI Expands Into Developer Hardware With Codex Micro Keyboard",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-03 06:15 UTC",
+      "status": "failed",
+      "topic": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-03 06:15 UTC",
+      "status": "failed",
+      "topic": "OpenClaw\u2019s new app doesn\u2019t run AI on your phone. That\u2019s the whole point.",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-02 06:28 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Amadey, StealC malware operations disrupted in Operation Endgame action",
       "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-26 06:40 UTC",
-      "status": "failed",
-      "topic": "Public cloud vs. on-prem: Summit on where each workload belongs",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-26 06:40 UTC",
-      "status": "failed",
-      "topic": "Xiaomi's HarnessX rewrites its own AI scaffolding mid-task \u2014 and smaller models gain the most",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-25 06:37 UTC",
-      "status": "failed",
-      "topic": "\ud83e\uddd0\ud83d\udc49 20 Security Giants Now Resell OpenAI&#39;s Cyber AI #QixNewsAI",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-25 06:37 UTC",
-      "status": "failed",
-      "topic": "OpenClaw and Hermes agree on what an agent is. They disagree on what controls it.",
-      "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
