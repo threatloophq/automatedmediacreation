@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-03 06:15 UTC",
+  "last_run": "2026-07-04 06:06 UTC",
   "status": "failed",
-  "topic": "Anthropic is discussing a new custom chip with Samsung",
+  "topic": "A Record-Breaking Patch Tuesday for June 2026",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-04 06:06 UTC",
+      "status": "failed",
+      "topic": "A Record-Breaking Patch Tuesday for June 2026",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-04 06:06 UTC",
+      "status": "failed",
+      "topic": "OpenClaw\u2019s new app doesn\u2019t run AI on your phone. That\u2019s the whole point.",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-04 06:06 UTC",
+      "status": "failed",
+      "topic": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-04 06:06 UTC",
+      "status": "failed",
+      "topic": "Clean Your CRM Data Before You Automate [Shorts] | CRM Experts Online",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-03 06:15 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "OpenAI Sunsets GPT-4.5 TODAY! What You Need To Know",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-27 06:11 UTC",
-      "status": "failed",
-      "topic": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-27 06:11 UTC",
-      "status": "failed",
-      "topic": "AI Coding Agents Are Pulling CI Feedback Into the Inner Loop",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-26 06:40 UTC",
-      "status": "failed",
-      "topic": "Akrites: The Latest Attempt to Protect Open-Source From AI Attacks Has Arrived",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-26 06:40 UTC",
-      "status": "failed",
-      "topic": "Amadey, StealC malware operations disrupted in Operation Endgame action",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
