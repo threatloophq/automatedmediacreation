@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-04 06:06 UTC",
+  "last_run": "2026-07-05 06:29 UTC",
   "status": "failed",
-  "topic": "A Record-Breaking Patch Tuesday for June 2026",
+  "topic": "Openai Vs Claude Vs Gemini Comparison | ai466.com AI Relay Guide, Tips &amp; Overview",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-05 06:29 UTC",
+      "status": "failed",
+      "topic": "Openai Vs Claude Vs Gemini Comparison | ai466.com AI Relay Guide, Tips &amp; Overview",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-05 06:29 UTC",
+      "status": "failed",
+      "topic": "Unlock the Hermes Agent OS: Build Your Own Custom AI Workflow \ud83d\ude80",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-05 06:29 UTC",
+      "status": "failed",
+      "topic": "Mozilla Shows the Danger of Indirect Prompt Injections in AI Coding Agents",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-05 06:29 UTC",
+      "status": "failed",
+      "topic": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-04 06:06 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Mastering the Blast Radius, Deployment Without Fear- Progressive Delivery in Modern DevOps",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-28 06:50 UTC",
-      "status": "failed",
-      "topic": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-28 06:50 UTC",
-      "status": "failed",
-      "topic": "Tesla settles FSD crash lawsuit as federal investigations continue",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-27 06:11 UTC",
-      "status": "failed",
-      "topic": "The AI agent identity problem nobody\u2019s talking about",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-27 06:11 UTC",
-      "status": "failed",
-      "topic": "OpenAI Sunsets GPT-4.5 TODAY! What You Need To Know",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
