@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-06 06:58 UTC",
+  "last_run": "2026-07-07 06:34 UTC",
   "status": "failed",
-  "topic": "Ornith Models Automate Agentic Coding With Self-Scaffolding",
+  "topic": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-07 06:34 UTC",
+      "status": "failed",
+      "topic": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-07 06:34 UTC",
+      "status": "failed",
+      "topic": "Advances in Natural Language Processing Are Changing Professional Networking",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-07 06:34 UTC",
+      "status": "failed",
+      "topic": "AI use case in 2026: AI copilots for personalized education in 2026. Practical automation is moving",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-07 06:34 UTC",
+      "status": "failed",
+      "topic": "Reliability Comes From the System, Not the Agent",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-06 06:58 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Greptile, Cursor, and Devin agree that agents should run their code. What they run it against matters.",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-30 06:43 UTC",
-      "status": "failed",
-      "topic": "Ten Great DevOps Job Opportunities",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-30 06:43 UTC",
-      "status": "failed",
-      "topic": "MIS605 Week 3 Disscussion Video",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-29 07:17 UTC",
-      "status": "failed",
-      "topic": "Bajaj Auto Hit by a Ransomware Attack! \ud83d\udea8\ud83d\udd12",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-06-29 07:17 UTC",
-      "status": "failed",
-      "topic": "The AI agent identity problem nobody\u2019s talking about",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
