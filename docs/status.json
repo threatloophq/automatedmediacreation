@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-08 05:41 UTC",
+  "last_run": "2026-07-09 06:45 UTC",
   "status": "failed",
-  "topic": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren\u2019t coding",
+  "topic": "A Record-Breaking Patch Tuesday for June 2026",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-09 06:45 UTC",
+      "status": "failed",
+      "topic": "A Record-Breaking Patch Tuesday for June 2026",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-09 06:45 UTC",
+      "status": "failed",
+      "topic": "Watch AWS engineers troubleshoot agentic AI with OpenTelemetry and OpenSearch",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-09 06:45 UTC",
+      "status": "failed",
+      "topic": "Deploying retail AI to scale personalisation and customer insight",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-09 06:45 UTC",
+      "status": "failed",
+      "topic": "Most enterprises will hand root cause analysis to AI agents within two years",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-08 05:41 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-02 06:28 UTC",
-      "status": "failed",
-      "topic": "Digital resilience compounds when AI and human expertise scale together",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-02 06:28 UTC",
-      "status": "failed",
-      "topic": "Cordyceps flaw pattern is more proof CI/CD is part of the attack surface",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-01 06:56 UTC",
-      "status": "failed",
-      "topic": "Harness Adds Autonomous AI Agents to Automate DevOps Workflows",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-01 06:56 UTC",
-      "status": "failed",
-      "topic": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
