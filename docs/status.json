@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-10 06:31 UTC",
+  "last_run": "2026-07-11 05:31 UTC",
   "status": "failed",
-  "topic": "Meta vs OpenAI: two frontier drops in one day - TMTL News - Daily TL;DR - 2026-07-10 #Shorts",
+  "topic": "Enterprise Smart Contracts Have a Cryptography Problem. EY Just Built a Way Around It",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-11 05:31 UTC",
+      "status": "failed",
+      "topic": "Enterprise Smart Contracts Have a Cryptography Problem. EY Just Built a Way Around It",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-11 05:31 UTC",
+      "status": "failed",
+      "topic": "Building a Cyber-Resilient Renewable Energy Ecosystem | CISO Roundtable | RENEWSEC 2025",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-11 05:31 UTC",
+      "status": "failed",
+      "topic": "What running Kubernetes across millions of clusters taught AWS about zonal failures",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-11 05:31 UTC",
+      "status": "failed",
+      "topic": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-10 06:31 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "OpenClaw\u2019s new app doesn\u2019t run AI on your phone. That\u2019s the whole point.",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-04 06:06 UTC",
-      "status": "failed",
-      "topic": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-04 06:06 UTC",
-      "status": "failed",
-      "topic": "Clean Your CRM Data Before You Automate [Shorts] | CRM Experts Online",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-03 06:15 UTC",
-      "status": "failed",
-      "topic": "Anthropic is discussing a new custom chip with Samsung",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-03 06:15 UTC",
-      "status": "failed",
-      "topic": "OpenAI Expands Into Developer Hardware With Codex Micro Keyboard",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
