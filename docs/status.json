@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-11 05:31 UTC",
+  "last_run": "2026-07-12 05:47 UTC",
   "status": "failed",
-  "topic": "Enterprise Smart Contracts Have a Cryptography Problem. EY Just Built a Way Around It",
+  "topic": "What running Kubernetes across millions of clusters taught AWS about zonal failures",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-12 05:47 UTC",
+      "status": "failed",
+      "topic": "What running Kubernetes across millions of clusters taught AWS about zonal failures",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-12 05:47 UTC",
+      "status": "failed",
+      "topic": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-12 05:47 UTC",
+      "status": "failed",
+      "topic": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-12 05:47 UTC",
+      "status": "failed",
+      "topic": "Shadow Mode Continuous Integration: The Missing Test Layer for AI Agents",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-11 05:31 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Unlock the Hermes Agent OS: Build Your Own Custom AI Workflow \ud83d\ude80",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-05 06:29 UTC",
-      "status": "failed",
-      "topic": "Mozilla Shows the Danger of Indirect Prompt Injections in AI Coding Agents",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-05 06:29 UTC",
-      "status": "failed",
-      "topic": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-04 06:06 UTC",
-      "status": "failed",
-      "topic": "A Record-Breaking Patch Tuesday for June 2026",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-04 06:06 UTC",
-      "status": "failed",
-      "topic": "OpenClaw\u2019s new app doesn\u2019t run AI on your phone. That\u2019s the whole point.",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
