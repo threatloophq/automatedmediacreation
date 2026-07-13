@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-12 05:47 UTC",
+  "last_run": "2026-07-13 05:58 UTC",
   "status": "failed",
-  "topic": "What running Kubernetes across millions of clusters taught AWS about zonal failures",
+  "topic": "OpenAI\u5168\u9762\u5347\u7d1a\uff01GPT-5.6\u65b0\u80fd\u529b\u66dd\u3000\u860b\u679c\u63d0\u544a\u63a7\u7aca\u5bc6\uff5cTVBS\u65b0\u805e",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-13 05:58 UTC",
+      "status": "failed",
+      "topic": "OpenAI\u5168\u9762\u5347\u7d1a\uff01GPT-5.6\u65b0\u80fd\u529b\u66dd\u3000\u860b\u679c\u63d0\u544a\u63a7\u7aca\u5bc6\uff5cTVBS\u65b0\u805e",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-13 05:58 UTC",
+      "status": "failed",
+      "topic": "How to Build a DevSecOps CI/CD Pipeline on Azure With GitHub Actions",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-13 05:58 UTC",
+      "status": "failed",
+      "topic": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-13 05:58 UTC",
+      "status": "failed",
+      "topic": "APIs aren\u2019t dead. Here\u2019s where MCP fits alongside them.",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-12 05:47 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Autonomous AI Agent Conducts First End-to-End Ransomware Attack | Jul 6, 2026",
       "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-06 06:58 UTC",
-      "status": "failed",
-      "topic": "Microsoft, AWS and Anthropic are spending billions \u2014 and not on better models",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-06 06:58 UTC",
-      "status": "failed",
-      "topic": "AI Models BREAKTHROUGH \u2014 Why Anthropic &amp; OpenAI Matter",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-05 06:29 UTC",
-      "status": "failed",
-      "topic": "Openai Vs Claude Vs Gemini Comparison | ai466.com AI Relay Guide, Tips &amp; Overview",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-05 06:29 UTC",
-      "status": "failed",
-      "topic": "Unlock the Hermes Agent OS: Build Your Own Custom AI Workflow \ud83d\ude80",
-      "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
