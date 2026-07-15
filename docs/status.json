@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-14 05:19 UTC",
+  "last_run": "2026-07-15 05:21 UTC",
   "status": "failed",
-  "topic": "Anthropic Beats OpenAI in Revenue?! AI News: JadePuffer Ransomware, GPT-Live, Meta Layoffs",
+  "topic": "Google faces another AI training lawsuit from major publishers",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-15 05:21 UTC",
+      "status": "failed",
+      "topic": "Google faces another AI training lawsuit from major publishers",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-15 05:21 UTC",
+      "status": "failed",
+      "topic": "What makes CIOs trust an AI agent? Thira bets it\u2019s not the model.",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-15 05:21 UTC",
+      "status": "failed",
+      "topic": "Prefect just bought Dagster, another big Airflow rival \u2014 and it\u2019s not a data pipeline story",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-15 05:21 UTC",
+      "status": "failed",
+      "topic": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-14 05:19 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "The Next DevOps Bottleneck: When AI Generates More Software Than Organizations Can Manage",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-08 05:41 UTC",
-      "status": "failed",
-      "topic": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-08 05:41 UTC",
-      "status": "failed",
-      "topic": "Microsoft, AWS and Anthropic are spending billions \u2014 and not on better models",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-07 06:34 UTC",
-      "status": "failed",
-      "topic": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-07 06:34 UTC",
-      "status": "failed",
-      "topic": "Advances in Natural Language Processing Are Changing Professional Networking",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
