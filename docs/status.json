@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-16 05:31 UTC",
+  "last_run": "2026-07-17 05:32 UTC",
   "status": "failed",
-  "topic": "Why Developer Workstations Have Become a Critical Part of the Software Supply Chain",
+  "topic": "Why smarter AI caching sometimes makes everything slower",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-17 05:32 UTC",
+      "status": "failed",
+      "topic": "Why smarter AI caching sometimes makes everything slower",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-17 05:32 UTC",
+      "status": "failed",
+      "topic": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-17 05:32 UTC",
+      "status": "failed",
+      "topic": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-17 05:32 UTC",
+      "status": "failed",
+      "topic": "SmartBear Tightens Integration Between AI Coding and Testing Tools",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-16 05:31 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Foundations of Agentic AI + AI Workflows | AICTE | BharatCares | Masterclass 5",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-10 06:31 UTC",
-      "status": "failed",
-      "topic": "Why Your Best People Can\u2019t Save a Broken Delivery System",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-10 06:31 UTC",
-      "status": "failed",
-      "topic": "Hackers were inside for 5 days. Nobody noticed. \ud83d\uded1 #msp  #marketingservices  #cybersecurity",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-09 06:45 UTC",
-      "status": "failed",
-      "topic": "A Record-Breaking Patch Tuesday for June 2026",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-09 06:45 UTC",
-      "status": "failed",
-      "topic": "Watch AWS engineers troubleshoot agentic AI with OpenTelemetry and OpenSearch",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
