@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-17 05:32 UTC",
+  "last_run": "2026-07-18 05:14 UTC",
   "status": "failed",
-  "topic": "Why smarter AI caching sometimes makes everything slower",
+  "topic": "Amazon fixing bug that billed some AWS customers billions of dollars",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-18 05:14 UTC",
+      "status": "failed",
+      "topic": "Amazon fixing bug that billed some AWS customers billions of dollars",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-18 05:14 UTC",
+      "status": "failed",
+      "topic": "Kubernetes won the container decade. Google\u2019s Agent Substrate wants the next one.",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-18 05:14 UTC",
+      "status": "failed",
+      "topic": "New Windows LegacyHive zero-day gives hackers admin privileges",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-18 05:14 UTC",
+      "status": "failed",
+      "topic": "\u201cThere are no laws, only suggestions\u201d: What AI agents do with your instructions",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-17 05:32 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Building a Cyber-Resilient Renewable Energy Ecosystem | CISO Roundtable | RENEWSEC 2025",
       "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-11 05:31 UTC",
-      "status": "failed",
-      "topic": "What running Kubernetes across millions of clusters taught AWS about zonal failures",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-11 05:31 UTC",
-      "status": "failed",
-      "topic": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-10 06:31 UTC",
-      "status": "failed",
-      "topic": "Meta vs OpenAI: two frontier drops in one day - TMTL News - Daily TL;DR - 2026-07-10 #Shorts",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-10 06:31 UTC",
-      "status": "failed",
-      "topic": "Foundations of Agentic AI + AI Workflows | AICTE | BharatCares | Masterclass 5",
-      "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
