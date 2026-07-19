@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-18 05:14 UTC",
+  "last_run": "2026-07-19 05:43 UTC",
   "status": "failed",
-  "topic": "Amazon fixing bug that billed some AWS customers billions of dollars",
+  "topic": "Apple&#39;s Biggest iPhone Camera Secret Just Leaked #apple",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-19 05:43 UTC",
+      "status": "failed",
+      "topic": "Apple&#39;s Biggest iPhone Camera Secret Just Leaked #apple",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-19 05:43 UTC",
+      "status": "failed",
+      "topic": "The bottleneck for AI agents isn\u2019t the model anymore. It\u2019s the context layer.",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-19 05:43 UTC",
+      "status": "failed",
+      "topic": "L\u2019Oreal, Mondelez, and Nestle use AI to speed product development",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-19 05:43 UTC",
+      "status": "failed",
+      "topic": "\u201cThey\u2019re dead if they don\u2019t offer this\u201d: DoorDash\u2019s CLI for agents may be out of necessity",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-18 05:14 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-12 05:47 UTC",
-      "status": "failed",
-      "topic": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-12 05:47 UTC",
-      "status": "failed",
-      "topic": "Shadow Mode Continuous Integration: The Missing Test Layer for AI Agents",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-11 05:31 UTC",
-      "status": "failed",
-      "topic": "Enterprise Smart Contracts Have a Cryptography Problem. EY Just Built a Way Around It",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-11 05:31 UTC",
-      "status": "failed",
-      "topic": "Building a Cyber-Resilient Renewable Energy Ecosystem | CISO Roundtable | RENEWSEC 2025",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
