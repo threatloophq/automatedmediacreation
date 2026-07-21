@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-20 05:58 UTC",
+  "last_run": "2026-07-21 05:40 UTC",
   "status": "failed",
-  "topic": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
+  "topic": "SmartBear Tightens Integration Between AI Coding and Testing Tools",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-21 05:40 UTC",
+      "status": "failed",
+      "topic": "SmartBear Tightens Integration Between AI Coding and Testing Tools",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-21 05:40 UTC",
+      "status": "failed",
+      "topic": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-21 05:40 UTC",
+      "status": "failed",
+      "topic": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-21 05:40 UTC",
+      "status": "failed",
+      "topic": "AI confidence just dropped 17 points in six months. That\u2019s actually great news.",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-20 05:58 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Meet Brain, the AI that decides when Azure is officially down",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-14 05:19 UTC",
-      "status": "failed",
-      "topic": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-14 05:19 UTC",
-      "status": "failed",
-      "topic": "AI Content Automation Workflow with n8n &amp; Product Hub",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-13 05:58 UTC",
-      "status": "failed",
-      "topic": "OpenAI\u5168\u9762\u5347\u7d1a\uff01GPT-5.6\u65b0\u80fd\u529b\u66dd\u3000\u860b\u679c\u63d0\u544a\u63a7\u7aca\u5bc6\uff5cTVBS\u65b0\u805e",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-13 05:58 UTC",
-      "status": "failed",
-      "topic": "How to Build a DevSecOps CI/CD Pipeline on Azure With GitHub Actions",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
