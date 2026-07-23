@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-22 05:40 UTC",
+  "last_run": "2026-07-23 05:45 UTC",
   "status": "failed",
-  "topic": "Kubernetes made deploying easy. Nobody warned you about the databases.",
+  "topic": "OpenAI models went rogue and hacked another company",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-23 05:45 UTC",
+      "status": "failed",
+      "topic": "OpenAI models went rogue and hacked another company",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-23 05:45 UTC",
+      "status": "failed",
+      "topic": "Zero Trust Starts at the Code: Building Secure Systems with PKI and DevOps Automation",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-23 05:45 UTC",
+      "status": "failed",
+      "topic": "How enterprise GenAI can amplify ransomware risk \u2014 and how to contain it",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-23 05:45 UTC",
+      "status": "failed",
+      "topic": "Kubernetes made deploying easy. Nobody warned you about the databases.",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-22 05:40 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-16 05:31 UTC",
-      "status": "failed",
-      "topic": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-16 05:31 UTC",
-      "status": "failed",
-      "topic": "Apple Sues OpenAI Over Secrets | Top 10 News July 16, 2026 #Shorts",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-15 05:21 UTC",
-      "status": "failed",
-      "topic": "Google faces another AI training lawsuit from major publishers",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-15 05:21 UTC",
-      "status": "failed",
-      "topic": "What makes CIOs trust an AI agent? Thira bets it\u2019s not the model.",
-      "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
