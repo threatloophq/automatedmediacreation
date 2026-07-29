@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-28 05:37 UTC",
+  "last_run": "2026-07-29 05:41 UTC",
   "status": "failed",
-  "topic": "Google\u2019s AI search is rapidly becoming the default, new data shows",
+  "topic": "Cyber Daily News for July 27th, 2026",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-07-29 05:41 UTC",
+      "status": "failed",
+      "topic": "Cyber Daily News for July 27th, 2026",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-29 05:41 UTC",
+      "status": "failed",
+      "topic": "Cloudflare open-sources a debugger for privacy protocols used by Apple and Microsoft, with AI agents in mind",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-29 05:41 UTC",
+      "status": "failed",
+      "topic": "OpenAI \u4e0a\u7ebf GPT Live Transcribe \u548c GPT Transcribe\u3010AI \u65e9\u62a5 2026-07-29\u3011",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-07-29 05:41 UTC",
+      "status": "failed",
+      "topic": "GM redesigned its engineering workflows around AI agents \u2014 and tripled its merged pull requests",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-28 05:37 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Kimi K3 open-weight model: China\u2019s biggest AI is a bet on memory, not compute",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-22 05:40 UTC",
-      "status": "failed",
-      "topic": "In a world of AI agents, where do we fit in?",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-22 05:40 UTC",
-      "status": "failed",
-      "topic": "Harness Extends DevOps Reach to the Realm of AI Agents",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-21 05:40 UTC",
-      "status": "failed",
-      "topic": "SmartBear Tightens Integration Between AI Coding and Testing Tools",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-21 05:40 UTC",
-      "status": "failed",
-      "topic": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
