@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-31 05:55 UTC",
+  "last_run": "2026-08-01 05:46 UTC",
   "status": "failed",
-  "topic": "The Anatomy of a $900,000 Validation Bill",
+  "topic": "DNS is infrastructure. It\u2019s time to manage it that way.",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-01 05:46 UTC",
+      "status": "failed",
+      "topic": "DNS is infrastructure. It\u2019s time to manage it that way.",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-01 05:46 UTC",
+      "status": "failed",
+      "topic": "How AI is shortening drug discovery timelines in China",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-01 05:46 UTC",
+      "status": "failed",
+      "topic": "Structured AI data pipelines score 10.9 points below free-form code \u2014 DataFlow-Harness closes the gap",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-01 05:46 UTC",
+      "status": "failed",
+      "topic": "Open Source Code Just as Secure as Proprietary Software\u2014If You Manage It Right, Says CISA",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-07-31 05:55 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Connect ElevenLabs + Ghost | puq.ai Workflow Automation",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-25 05:34 UTC",
-      "status": "failed",
-      "topic": "AI-Native Testing Is Now a Core Quality Engineering Discipline",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-25 05:34 UTC",
-      "status": "failed",
-      "topic": "Coca-Cola Ransomware Attack Exposed #cybersecurity #databreach",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-24 05:40 UTC",
-      "status": "failed",
-      "topic": "Suno Got Hacked \u2014 And It Exposed Everything We Warned You About (55M Accounts + Scraping Proof)",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-24 05:40 UTC",
-      "status": "failed",
-      "topic": "Can prompt caching tame RAG costs without sacrificing accuracy?",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
