@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-01 05:46 UTC",
+  "last_run": "2026-08-02 05:46 UTC",
   "status": "failed",
-  "topic": "DNS is infrastructure. It\u2019s time to manage it that way.",
+  "topic": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-02 05:46 UTC",
+      "status": "failed",
+      "topic": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-02 05:46 UTC",
+      "status": "failed",
+      "topic": "CISA\u2019s 2026 SBOM Guidance Adds Hash Requirements and AI Coverage",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-02 05:46 UTC",
+      "status": "failed",
+      "topic": "Japan&#39;s port wasn&#39;t ready for this cyberattack #industrialcontrol #cyberthreat",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-02 05:46 UTC",
+      "status": "failed",
+      "topic": "Kubernetes upgrades don\u2019t have to break things: How EKS is making cluster lifecycle management simpler and safer",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-08-01 05:46 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Coca-Cola Ransomware Attack Exposed #cybersecurity #databreach",
       "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-26 05:50 UTC",
-      "status": "failed",
-      "topic": "Microsoft, Nvidia, Meta and 22 others defended open weights. Anthropic and OpenAI didn\u2019t sign.",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-26 05:50 UTC",
-      "status": "failed",
-      "topic": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-25 05:34 UTC",
-      "status": "failed",
-      "topic": "OpenAI\u2019s Model Accidentally Hacked Hugging Face \u2014 For Real",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-25 05:34 UTC",
-      "status": "failed",
-      "topic": "Connect ElevenLabs + Ghost | puq.ai Workflow Automation",
-      "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
