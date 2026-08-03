@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-02 05:46 UTC",
+  "last_run": "2026-08-03 06:02 UTC",
   "status": "failed",
-  "topic": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
+  "topic": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-03 06:02 UTC",
+      "status": "failed",
+      "topic": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-03 06:02 UTC",
+      "status": "failed",
+      "topic": "Kubernetes upgrades don\u2019t have to break things: How EKS is making cluster lifecycle management simpler and safer",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-03 06:02 UTC",
+      "status": "failed",
+      "topic": "OpenAI report links coding agents to faster science software builds",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-03 06:02 UTC",
+      "status": "failed",
+      "topic": "These App Store hidden gems prove there\u2019s still room for great software in the AI era",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-08-02 05:46 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "OpenAI&#39;s GPT-5.6 Launch Shakes AI World | Top 10 News July 27, 2026 #Shorts",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-27 06:10 UTC",
-      "status": "failed",
-      "topic": "Connect Mailer Lite + OneDrive | puq.ai Workflow Automation",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-27 06:10 UTC",
-      "status": "failed",
-      "topic": "From Reactive Monitoring to AI-Driven Operational Intelligence",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-26 05:50 UTC",
-      "status": "failed",
-      "topic": "These are 10 CI/CD Pipeline Mistakes That Slow Down Engineering Teams",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-26 05:50 UTC",
-      "status": "failed",
-      "topic": "Coca-Cola Ransomware Attack Exposed #cybersecurity #databreach",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
