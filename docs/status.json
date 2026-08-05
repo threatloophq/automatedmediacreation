@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-04 05:36 UTC",
+  "last_run": "2026-08-05 05:35 UTC",
   "status": "failed",
-  "topic": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
+  "topic": "Ten Great DevOps Job Opportunities",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-05 05:35 UTC",
+      "status": "failed",
+      "topic": "Ten Great DevOps Job Opportunities",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-05 05:35 UTC",
+      "status": "failed",
+      "topic": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-05 05:35 UTC",
+      "status": "failed",
+      "topic": "Kubernetes upgrades don\u2019t have to break things: How EKS is making cluster lifecycle management simpler and safer",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-05 05:35 UTC",
+      "status": "failed",
+      "topic": "Waymo opens up robotaxi service in Dallas to everyone",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-08-04 05:36 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Cloudflare open-sources a debugger for privacy protocols used by Apple and Microsoft, with AI agents in mind",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-29 05:41 UTC",
-      "status": "failed",
-      "topic": "OpenAI \u4e0a\u7ebf GPT Live Transcribe \u548c GPT Transcribe\u3010AI \u65e9\u62a5 2026-07-29\u3011",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-29 05:41 UTC",
-      "status": "failed",
-      "topic": "GM redesigned its engineering workflows around AI agents \u2014 and tripled its merged pull requests",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-28 05:37 UTC",
-      "status": "failed",
-      "topic": "Google\u2019s AI search is rapidly becoming the default, new data shows",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-07-28 05:37 UTC",
-      "status": "failed",
-      "topic": "GitHub Gives Teams More Control Over Copilot\u2019s Cloud Agent in Linear",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
