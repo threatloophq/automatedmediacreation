@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-08 03:55 UTC",
+  "last_run": "2026-08-09 04:04 UTC",
   "status": "failed",
-  "topic": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+  "topic": "Computer maker Framework notifies \u2018all customers\u2019 of a data breach",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-09 04:04 UTC",
+      "status": "failed",
+      "topic": "Computer maker Framework notifies \u2018all customers\u2019 of a data breach",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-09 04:04 UTC",
+      "status": "failed",
+      "topic": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-09 04:04 UTC",
+      "status": "failed",
+      "topic": "Why Reliability Guardrails Are Needed in Every AI Coding Pipeline",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-09 04:04 UTC",
+      "status": "failed",
+      "topic": "Anthropic AI Rogue Attack, ieh Corp M365 Breach, Ransomware Surge - August 08, 2026",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-08-08 03:55 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "CISA\u2019s 2026 SBOM Guidance Adds Hash Requirements and AI Coverage",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-02 05:46 UTC",
-      "status": "failed",
-      "topic": "Japan&#39;s port wasn&#39;t ready for this cyberattack #industrialcontrol #cyberthreat",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-02 05:46 UTC",
-      "status": "failed",
-      "topic": "Kubernetes upgrades don\u2019t have to break things: How EKS is making cluster lifecycle management simpler and safer",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-01 05:46 UTC",
-      "status": "failed",
-      "topic": "DNS is infrastructure. It\u2019s time to manage it that way.",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-01 05:46 UTC",
-      "status": "failed",
-      "topic": "How AI is shortening drug discovery timelines in China",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
