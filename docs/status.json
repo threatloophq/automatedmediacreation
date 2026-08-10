@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-09 04:04 UTC",
+  "last_run": "2026-08-10 04:18 UTC",
   "status": "failed",
-  "topic": "Computer maker Framework notifies \u2018all customers\u2019 of a data breach",
+  "topic": "From API Integration to Agent Governance: What Backend Teams Need to Know About MCP",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-10 04:18 UTC",
+      "status": "failed",
+      "topic": "From API Integration to Agent Governance: What Backend Teams Need to Know About MCP",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-10 04:18 UTC",
+      "status": "failed",
+      "topic": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-10 04:18 UTC",
+      "status": "failed",
+      "topic": "The \u201cAI kill switch\u201d assumes you know what you are trying to shut down",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-10 04:18 UTC",
+      "status": "failed",
+      "topic": "OpenAI says it slowed Astra model development over security concerns",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-08-09 04:04 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Kubernetes upgrades don\u2019t have to break things: How EKS is making cluster lifecycle management simpler and safer",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-03 06:02 UTC",
-      "status": "failed",
-      "topic": "OpenAI report links coding agents to faster science software builds",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-03 06:02 UTC",
-      "status": "failed",
-      "topic": "These App Store hidden gems prove there\u2019s still room for great software in the AI era",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-02 05:46 UTC",
-      "status": "failed",
-      "topic": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-02 05:46 UTC",
-      "status": "failed",
-      "topic": "CISA\u2019s 2026 SBOM Guidance Adds Hash Requirements and AI Coverage",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
