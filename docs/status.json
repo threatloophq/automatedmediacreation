@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-10 04:18 UTC",
+  "last_run": "2026-08-11 04:06 UTC",
   "status": "failed",
-  "topic": "From API Integration to Agent Governance: What Backend Teams Need to Know About MCP",
+  "topic": "Archer buys former rival Wisk Aero",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-11 04:06 UTC",
+      "status": "failed",
+      "topic": "Archer buys former rival Wisk Aero",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-11 04:06 UTC",
+      "status": "failed",
+      "topic": "Brex assumes its AI agents could do anything \u2014 so it watches the network, not the code",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-11 04:06 UTC",
+      "status": "failed",
+      "topic": "AI-workflow-builder: no-code AI workflow builder",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-11 04:06 UTC",
+      "status": "failed",
+      "topic": "Why Standardized Developer Environments Still Break DevOps Workflows",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-08-10 04:18 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-04 05:36 UTC",
-      "status": "failed",
-      "topic": "Kubernetes upgrades don\u2019t have to break things: How EKS is making cluster lifecycle management simpler and safer",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-04 05:36 UTC",
-      "status": "failed",
-      "topic": "Inside the Underground Business of the Android BTMOB RAT malware",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-03 06:02 UTC",
-      "status": "failed",
-      "topic": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-03 06:02 UTC",
-      "status": "failed",
-      "topic": "Kubernetes upgrades don\u2019t have to break things: How EKS is making cluster lifecycle management simpler and safer",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
