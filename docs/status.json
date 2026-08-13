@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-12 04:28 UTC",
+  "last_run": "2026-08-13 04:31 UTC",
   "status": "failed",
-  "topic": "Bluesky\u2019s active user base is shrinking as its focus expands beyond the app",
+  "topic": "Radar Cyber 12-08-2026 - Agentes de IA da OpenAI e Anthropic invadem sistemas reais em testes",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-13 04:31 UTC",
+      "status": "failed",
+      "topic": "Radar Cyber 12-08-2026 - Agentes de IA da OpenAI e Anthropic invadem sistemas reais em testes",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-13 04:31 UTC",
+      "status": "failed",
+      "topic": "Why CPUs still matter in the age of AI agents",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-13 04:31 UTC",
+      "status": "failed",
+      "topic": "Stanford Evo 2 AI model generates phages against E. coli",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-13 04:31 UTC",
+      "status": "failed",
+      "topic": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-08-12 04:28 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Lucid Motors just delayed its affordable EV. Now what?",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-06 05:38 UTC",
-      "status": "failed",
-      "topic": "DeepSeek\u2019s smaller model just outperformed its own flagship",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-06 05:38 UTC",
-      "status": "failed",
-      "topic": "From API Integration to Agent Governance: What Backend Teams Need to Know About MCP",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-05 05:35 UTC",
-      "status": "failed",
-      "topic": "Ten Great DevOps Job Opportunities",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-05 05:35 UTC",
-      "status": "failed",
-      "topic": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
