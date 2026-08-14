@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-13 04:31 UTC",
+  "last_run": "2026-08-14 04:27 UTC",
   "status": "failed",
-  "topic": "Radar Cyber 12-08-2026 - Agentes de IA da OpenAI e Anthropic invadem sistemas reais em testes",
+  "topic": "Three Claude agents given conflicting orders sabotaged each other on a shared server \u2014 then didn't tell users what they'd done",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-14 04:27 UTC",
+      "status": "failed",
+      "topic": "Three Claude agents given conflicting orders sabotaged each other on a shared server \u2014 then didn't tell users what they'd done",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-14 04:27 UTC",
+      "status": "failed",
+      "topic": "Code that passes every test can still break the next AI agent that touches it",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-14 04:27 UTC",
+      "status": "failed",
+      "topic": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
+    {
+      "last_run": "2026-08-14 04:27 UTC",
+      "status": "failed",
+      "topic": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+    },
     {
       "last_run": "2026-08-13 04:31 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "AI is Coding Us Into a Corner",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-07 04:41 UTC",
-      "status": "failed",
-      "topic": "[CYBERSECURIT] Strategic Assessment: South Africa Identified as Primary Cybercrime Target in #Shorts",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-07 04:41 UTC",
-      "status": "failed",
-      "topic": "Your AI agent\u2019s next tool call may be valid but wrong. AWS\u2019s Dogwood promises to fix that.",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-06 05:38 UTC",
-      "status": "failed",
-      "topic": "Kubernetes upgrades don\u2019t have to break things: How EKS is making cluster lifecycle management simpler and safer",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-06 05:38 UTC",
-      "status": "failed",
-      "topic": "Lucid Motors just delayed its affordable EV. Now what?",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
