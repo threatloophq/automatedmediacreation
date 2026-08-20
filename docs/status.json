@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-19 03:57 UTC",
+  "last_run": "2026-08-20 03:26 UTC",
   "status": "failed",
-  "topic": "OpenAI president urges enterprises to hasten AI security defences",
+  "topic": "Why Self-Healing Tests Need a Deployment Gate",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-20 03:26 UTC",
+      "status": "failed",
+      "topic": "Why Self-Healing Tests Need a Deployment Gate",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-20 03:26 UTC",
+      "status": "failed",
+      "topic": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-20 03:26 UTC",
+      "status": "failed",
+      "topic": "AWS deprecated this EKS auth method. 81% of clusters still run it.",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-20 03:26 UTC",
+      "status": "failed",
+      "topic": "GPT-6 Astra Releasing Thursday, Fable 5.1 Huge Leak",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-08-19 03:57 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Why CPUs still matter in the age of AI agents",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-13 04:31 UTC",
-      "status": "failed",
-      "topic": "Stanford Evo 2 AI model generates phages against E. coli",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-13 04:31 UTC",
-      "status": "failed",
-      "topic": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-12 04:28 UTC",
-      "status": "failed",
-      "topic": "Bluesky\u2019s active user base is shrinking as its focus expands beyond the app",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-12 04:28 UTC",
-      "status": "failed",
-      "topic": "AWS Extends DevSecOps Reach to AI Coding Tools from Anthropic and OpenAI",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
