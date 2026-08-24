@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-23 03:30 UTC",
+  "last_run": "2026-08-24 03:33 UTC",
   "status": "failed",
-  "topic": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+  "topic": "Serval\u2019s super agent Catalyst creates roving background agents to identify and fix IT issues before they\u2019re ticketed",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-24 03:33 UTC",
+      "status": "failed",
+      "topic": "Serval\u2019s super agent Catalyst creates roving background agents to identify and fix IT issues before they\u2019re ticketed",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-24 03:33 UTC",
+      "status": "failed",
+      "topic": "@smartleadai  Don\u2019t Treat AI Templates as Finished Products \ud83e\udd16 | AI Automation #viralvideo #shorts",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-24 03:33 UTC",
+      "status": "failed",
+      "topic": "npm v12 Shuts Down a Popular Malware Trick \u2014 But the Threat Isn\u2019t Going Away",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-24 03:33 UTC",
+      "status": "failed",
+      "topic": "Fairview Dental Group Ransomware: Unconfirmed Claim",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-08-23 03:30 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Developer Resistance to AI Isn\u2019t Fear \u2013 It is Identity",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-17 03:33 UTC",
-      "status": "failed",
-      "topic": "Seven in ten data breach letters never say how it happened",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-17 03:33 UTC",
-      "status": "failed",
-      "topic": "Your container images are unsigned. In the AI era, that\u2019s a ticking time bomb.",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-16 03:31 UTC",
-      "status": "failed",
-      "topic": "Your container images are unsigned. In the AI era, that\u2019s a ticking time bomb.",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
-    },
-    {
-      "last_run": "2026-08-16 03:31 UTC",
-      "status": "failed",
-      "topic": "Why Capital One built its multi-agent AI platform around open-weight models",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
