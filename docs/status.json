@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-26 03:34 UTC",
+  "last_run": "2026-08-27 13:01 UTC",
   "status": "failed",
-  "topic": "Grok Bot vs. Hermes: Where each draws the security boundary",
+  "topic": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-27 13:01 UTC",
+      "status": "failed",
+      "topic": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-27 13:01 UTC",
+      "status": "failed",
+      "topic": "The Missing Runtime for Long-Running AI Agents",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-27 13:01 UTC",
+      "status": "failed",
+      "topic": "LIVE WEBINAR Security, Data Breach Management &amp; Data Retention Under DPDPA   Free LIVE WEBINAR",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-27 13:01 UTC",
+      "status": "failed",
+      "topic": "Nvidia closes in on Hugging Face acquisition",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-08-26 03:34 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-20 03:26 UTC",
-      "status": "failed",
-      "topic": "AWS deprecated this EKS auth method. 81% of clusters still run it.",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-20 03:26 UTC",
-      "status": "failed",
-      "topic": "GPT-6 Astra Releasing Thursday, Fable 5.1 Huge Leak",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-19 03:57 UTC",
-      "status": "failed",
-      "topic": "OpenAI president urges enterprises to hasten AI security defences",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-19 03:57 UTC",
-      "status": "failed",
-      "topic": "Behind every website, AI solution and automated workflow is a process \u2014 understanding the problem",
-      "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
