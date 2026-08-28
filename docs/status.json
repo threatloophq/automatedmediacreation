@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-27 13:01 UTC",
+  "last_run": "2026-08-28 14:34 UTC",
   "status": "failed",
-  "topic": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
+  "topic": "Over 8,300 Gitea servers vulnerable to code execution attacks",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-28 14:34 UTC",
+      "status": "failed",
+      "topic": "Over 8,300 Gitea servers vulnerable to code execution attacks",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-28 14:34 UTC",
+      "status": "failed",
+      "topic": "Anthropic gets its first court win over the Pentagon\u2019s supply chain risk label",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-28 14:34 UTC",
+      "status": "failed",
+      "topic": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-28 14:34 UTC",
+      "status": "failed",
+      "topic": "\u201cPosterity will find it ludicrous\u201d: Sai agent hits 73% on OSWorld 2.0 performing routine (but necessary) work",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-08-27 13:01 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Google AI health coach to use Abbott glucose data",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-21 03:31 UTC",
-      "status": "failed",
-      "topic": "Stop the token bleed: building token-efficient multi-agent systems",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-21 03:31 UTC",
-      "status": "failed",
-      "topic": "npm v12 Shuts Down a Popular Malware Trick \u2014 But the Threat Isn\u2019t Going Away",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-20 03:26 UTC",
-      "status": "failed",
-      "topic": "Why Self-Healing Tests Need a Deployment Gate",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-20 03:26 UTC",
-      "status": "failed",
-      "topic": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
