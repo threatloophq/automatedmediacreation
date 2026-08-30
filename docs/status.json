@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-29 09:19 UTC",
+  "last_run": "2026-08-30 08:30 UTC",
   "status": "failed",
-  "topic": "AI data centre regulation just got a template that needs no new law",
+  "topic": "Cybersecurity Researchers Uncover Flaw in Google AI Coding Tool",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-30 08:30 UTC",
+      "status": "failed",
+      "topic": "Cybersecurity Researchers Uncover Flaw in Google AI Coding Tool",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-30 08:30 UTC",
+      "status": "failed",
+      "topic": "Winona County paid hackers $128K after back-to-back ransomware attacks in 2026, Social Security",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-30 08:30 UTC",
+      "status": "failed",
+      "topic": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-30 08:30 UTC",
+      "status": "failed",
+      "topic": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-08-29 09:19 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "TikTok reaches $400M settlement over children\u2019s privacy lawsuit",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-23 03:30 UTC",
-      "status": "failed",
-      "topic": "Enterprises winning with AI agents are limiting how much the agents can do alone",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-23 03:30 UTC",
-      "status": "failed",
-      "topic": "Enterprises winning with AI agents are limiting how much the agents can do alone",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-22 03:22 UTC",
-      "status": "failed",
-      "topic": "Nvidia partners with data center developer Cloverleaf",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-22 03:22 UTC",
-      "status": "failed",
-      "topic": "Waterfall 2.0: Controlling LLM-Driven Software Development with Stage-Gated Discipline",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
