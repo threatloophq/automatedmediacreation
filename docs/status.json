@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-30 08:30 UTC",
+  "last_run": "2026-08-31 08:51 UTC",
   "status": "failed",
-  "topic": "Cybersecurity Researchers Uncover Flaw in Google AI Coding Tool",
+  "topic": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-08-31 08:51 UTC",
+      "status": "failed",
+      "topic": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-31 08:51 UTC",
+      "status": "failed",
+      "topic": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-31 08:51 UTC",
+      "status": "failed",
+      "topic": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-08-31 08:51 UTC",
+      "status": "failed",
+      "topic": "When AI Coding Agents Become Malware Delivery Systems",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-08-30 08:30 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "@smartleadai  Don\u2019t Treat AI Templates as Finished Products \ud83e\udd16 | AI Automation #viralvideo #shorts",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-24 03:33 UTC",
-      "status": "failed",
-      "topic": "npm v12 Shuts Down a Popular Malware Trick \u2014 But the Threat Isn\u2019t Going Away",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-24 03:33 UTC",
-      "status": "failed",
-      "topic": "Fairview Dental Group Ransomware: Unconfirmed Claim",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-23 03:30 UTC",
-      "status": "failed",
-      "topic": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-23 03:30 UTC",
-      "status": "failed",
-      "topic": "TikTok reaches $400M settlement over children\u2019s privacy lawsuit",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
