@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-08-31 08:51 UTC",
+  "last_run": "2026-09-01 07:58 UTC",
   "status": "failed",
-  "topic": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
+  "topic": "Software engineers' new job isn't writing code \u2014 it's designing the boundaries AI agents can't break",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-09-01 07:58 UTC",
+      "status": "failed",
+      "topic": "Software engineers' new job isn't writing code \u2014 it's designing the boundaries AI agents can't break",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-01 07:58 UTC",
+      "status": "failed",
+      "topic": "A Simple Website Summary Just Exposed the Limits of AI Coding Guardrails",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-01 07:58 UTC",
+      "status": "failed",
+      "topic": "AI-Powered Ransomware and Router Hijacking: New Cyber Threats Emerge",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-01 07:58 UTC",
+      "status": "failed",
+      "topic": "Harvard Law dropout raises $6M for Blue Voice to build a \u2018Harvey for police officers\u2019",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-08-31 08:51 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "A case study of the 2025 discord third party data breach",
       "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-25 03:27 UTC",
-      "status": "failed",
-      "topic": "Anthropic\u2019s new browser tool doesn\u2019t actually run a browser",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-25 03:27 UTC",
-      "status": "failed",
-      "topic": "OpenAI adds new safety teen features",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-24 03:33 UTC",
-      "status": "failed",
-      "topic": "Serval\u2019s super agent Catalyst creates roving background agents to identify and fix IT issues before they\u2019re ticketed",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-24 03:33 UTC",
-      "status": "failed",
-      "topic": "@smartleadai  Don\u2019t Treat AI Templates as Finished Products \ud83e\udd16 | AI Automation #viralvideo #shorts",
-      "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
