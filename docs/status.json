@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-09-03 07:21 UTC",
+  "last_run": "2026-09-04 07:23 UTC",
   "status": "failed",
-  "topic": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+  "topic": "Amazon\u2019s Prime Air autonomous drones to reach 500 US cities",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-09-04 07:23 UTC",
+      "status": "failed",
+      "topic": "Amazon\u2019s Prime Air autonomous drones to reach 500 US cities",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-04 07:23 UTC",
+      "status": "failed",
+      "topic": "Google\u2019s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-04 07:23 UTC",
+      "status": "failed",
+      "topic": "Debian\u2019s AI Vote Bets on Accountability Instead of a Ban",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-04 07:23 UTC",
+      "status": "failed",
+      "topic": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-09-03 07:21 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "The Missing Runtime for Long-Running AI Agents",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-27 13:01 UTC",
-      "status": "failed",
-      "topic": "LIVE WEBINAR Security, Data Breach Management &amp; Data Retention Under DPDPA   Free LIVE WEBINAR",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-27 13:01 UTC",
-      "status": "failed",
-      "topic": "Nvidia closes in on Hugging Face acquisition",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-26 03:34 UTC",
-      "status": "failed",
-      "topic": "Grok Bot vs. Hermes: Where each draws the security boundary",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-26 03:34 UTC",
-      "status": "failed",
-      "topic": "2025 vs 2026 AI Tools: PowerPoint \u2192 Gamma, ChatGPT \u2192 Claude, Chrome \u2192 Perplexity Comet | AI",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
