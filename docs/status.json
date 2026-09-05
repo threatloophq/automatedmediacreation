@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-09-04 07:23 UTC",
+  "last_run": "2026-09-05 07:05 UTC",
   "status": "failed",
-  "topic": "Amazon\u2019s Prime Air autonomous drones to reach 500 US cities",
+  "topic": "Feds launch investigation into Tesla\u2019s Cybercab deployment",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-09-05 07:05 UTC",
+      "status": "failed",
+      "topic": "Feds launch investigation into Tesla\u2019s Cybercab deployment",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-05 07:05 UTC",
+      "status": "failed",
+      "topic": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-05 07:05 UTC",
+      "status": "failed",
+      "topic": "AWS outage hits major enterprises worldwide",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-05 07:05 UTC",
+      "status": "failed",
+      "topic": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-09-04 07:23 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Anthropic gets its first court win over the Pentagon\u2019s supply chain risk label",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-28 14:34 UTC",
-      "status": "failed",
-      "topic": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-28 14:34 UTC",
-      "status": "failed",
-      "topic": "\u201cPosterity will find it ludicrous\u201d: Sai agent hits 73% on OSWorld 2.0 performing routine (but necessary) work",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-27 13:01 UTC",
-      "status": "failed",
-      "topic": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-08-27 13:01 UTC",
-      "status": "failed",
-      "topic": "The Missing Runtime for Long-Running AI Agents",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
