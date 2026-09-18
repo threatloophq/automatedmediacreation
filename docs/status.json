@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-09-17 07:56 UTC",
+  "last_run": "2026-09-18 07:34 UTC",
   "status": "failed",
-  "topic": "Supply chains detect fast, act slow: How AI agents fix it",
+  "topic": "The true cost of a ransomware attack, with and without BCDR",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-09-18 07:34 UTC",
+      "status": "failed",
+      "topic": "The true cost of a ransomware attack, with and without BCDR",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-18 07:34 UTC",
+      "status": "failed",
+      "topic": "AWS outage hits major enterprises worldwide",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-18 07:34 UTC",
+      "status": "failed",
+      "topic": "UN turns to Google to make its global data ready for AI agents",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-18 07:34 UTC",
+      "status": "failed",
+      "topic": "AI Agents Are the Future \u2014 Are You Ready to Build Them? \ud83e\udd16\ud83d\ude80",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-09-17 07:56 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "The Boring Company raises $3B in round led by UAE",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-11 07:26 UTC",
-      "status": "failed",
-      "topic": "Copy My FREE AI Workflow for Studio-Grade Papercut Shorts \u2702\ufe0f\ud83d\ude80",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-11 07:26 UTC",
-      "status": "failed",
-      "topic": "GitHub Workflows Strain Under AI Agent Development",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-10 07:30 UTC",
-      "status": "failed",
-      "topic": "Rust\u2019s First Debugging Survey Shows Most Developers Skip the Debugger Entirely",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-10 07:30 UTC",
-      "status": "failed",
-      "topic": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
