@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-09-19 07:30 UTC",
+  "last_run": "2026-09-20 07:53 UTC",
   "status": "failed",
-  "topic": "OpenAI&#39;s Astra Just Beat Every CAPTCHA Level | AI Pulse #Shorts",
+  "topic": "StackHawk Delivers Wingman to Fix Vulnerabilities as Developers Write Code",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-09-20 07:53 UTC",
+      "status": "failed",
+      "topic": "StackHawk Delivers Wingman to Fix Vulnerabilities as Developers Write Code",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-20 07:53 UTC",
+      "status": "failed",
+      "topic": "Article Analysis &amp; Presentation",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-20 07:53 UTC",
+      "status": "failed",
+      "topic": "Kubernetes can run AI inference. But can it count the real cost?",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-20 07:53 UTC",
+      "status": "failed",
+      "topic": "The AI visibility gap: Why great brands disappear from AI answers",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-09-19 07:30 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-13 07:37 UTC",
-      "status": "failed",
-      "topic": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-13 07:37 UTC",
-      "status": "failed",
-      "topic": "Google\u2019s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-12 07:19 UTC",
-      "status": "failed",
-      "topic": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-12 07:19 UTC",
-      "status": "failed",
-      "topic": "Rust\u2019s First Debugging Survey Shows Most Developers Skip the Debugger Entirely",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
