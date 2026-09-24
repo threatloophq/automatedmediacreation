@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-09-22 07:55 UTC",
+  "last_run": "2026-09-24 07:46 UTC",
   "status": "failed",
-  "topic": "GPT-6 Astra: \u0905\u092c AI \u0916\u0941\u0926 \u0915\u0930\u0947\u0917\u093e \u092a\u0942\u0930\u093e \u0915\u093e\u092e! \ud83d\ude31 \u0915\u094d\u092f\u093e \u092f\u0947 AGI \u0939\u0948? #shorts",
+  "topic": "2026 Data Breach Costs: What It Means for Alaska Healthcare",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-09-24 07:46 UTC",
+      "status": "failed",
+      "topic": "2026 Data Breach Costs: What It Means for Alaska Healthcare",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-24 07:46 UTC",
+      "status": "failed",
+      "topic": "AWS outage hits major enterprises worldwide",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-24 07:46 UTC",
+      "status": "failed",
+      "topic": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-24 07:46 UTC",
+      "status": "failed",
+      "topic": "Connect Pushbullet + Snowflake | puq.ai Workflow Automation",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-09-22 07:55 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "OpenAI\u306e\u97f3\u58f0\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3001AWS\u306eAI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3001Micron\u306eDDR5 RDIMM\uff5c\u671d\u306eAI\u30cb\u30e5\u30fc\u30b93\u9078\u301030\u79d2\u3011",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-16 07:52 UTC",
-      "status": "failed",
-      "topic": "Agents operate, humans govern: Scale your operations and reduce toil with Azure SRE Agent",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-16 07:52 UTC",
-      "status": "failed",
-      "topic": "Ten Great DevOps Job Opportunities",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-15 07:59 UTC",
-      "status": "failed",
-      "topic": "GitHub\u2019s August Outages Show Growth Is Outpacing Infrastructure",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-15 07:59 UTC",
-      "status": "failed",
-      "topic": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
