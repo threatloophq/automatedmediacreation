@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-09-24 07:46 UTC",
+  "last_run": "2026-09-25 08:07 UTC",
   "status": "failed",
-  "topic": "2026 Data Breach Costs: What It Means for Alaska Healthcare",
+  "topic": "ElevenLabs\u2019 CEO on margins, IPO timing, and telling customers they\u2019re talking to a bot",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-09-25 08:07 UTC",
+      "status": "failed",
+      "topic": "ElevenLabs\u2019 CEO on margins, IPO timing, and telling customers they\u2019re talking to a bot",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-25 08:07 UTC",
+      "status": "failed",
+      "topic": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-25 08:07 UTC",
+      "status": "failed",
+      "topic": "Smoothing the Never-Ending Road to Modernization",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-25 08:07 UTC",
+      "status": "failed",
+      "topic": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-09-24 07:46 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "The Most Dangerous Reliability Failures Aren\u2019t Component Failures",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-17 07:56 UTC",
-      "status": "failed",
-      "topic": "Microsoft Patches a Record 570 Security Flaws",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-17 07:56 UTC",
-      "status": "failed",
-      "topic": "How to attach an owner to every cloud resource you find",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-16 07:52 UTC",
-      "status": "failed",
-      "topic": "How to attach an owner to every cloud resource you find",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-16 07:52 UTC",
-      "status": "failed",
-      "topic": "OpenAI\u306e\u97f3\u58f0\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3001AWS\u306eAI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3001Micron\u306eDDR5 RDIMM\uff5c\u671d\u306eAI\u30cb\u30e5\u30fc\u30b93\u9078\u301030\u79d2\u3011",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
