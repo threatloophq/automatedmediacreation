@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-09-26 07:57 UTC",
+  "last_run": "2026-09-27 08:29 UTC",
   "status": "failed",
-  "topic": "Leaked GitLab Email Tokens Can Reach Code, Secrets and CI/CD Pipelines",
+  "topic": "Developers and platform teams both want Kubernetes self-service. They disagree on who owns it.",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-09-27 08:29 UTC",
+      "status": "failed",
+      "topic": "Developers and platform teams both want Kubernetes self-service. They disagree on who owns it.",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-27 08:29 UTC",
+      "status": "failed",
+      "topic": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-27 08:29 UTC",
+      "status": "failed",
+      "topic": "Microsoft\u2019s new Copilot agents get their own email, calendar \u2014 and a place in the org chart",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-27 08:29 UTC",
+      "status": "failed",
+      "topic": "Dependency Mocking Approach That Gets More Accurate as Your Services Deploy More Often",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-09-26 07:57 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Introducing terminal-use: Open-Source AI Agent Framework for CLI Automation #artificialintelligence",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-19 07:30 UTC",
-      "status": "failed",
-      "topic": "Kubernetes can run AI inference. But can it count the real cost?",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-19 07:30 UTC",
-      "status": "failed",
-      "topic": "Daily Cyber News \u2013 December 3rd, 2025",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-18 07:34 UTC",
-      "status": "failed",
-      "topic": "The true cost of a ransomware attack, with and without BCDR",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-18 07:34 UTC",
-      "status": "failed",
-      "topic": "AWS outage hits major enterprises worldwide",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
