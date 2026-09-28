@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-09-27 08:29 UTC",
+  "last_run": "2026-09-28 08:54 UTC",
   "status": "failed",
-  "topic": "Developers and platform teams both want Kubernetes self-service. They disagree on who owns it.",
+  "topic": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-09-28 08:54 UTC",
+      "status": "failed",
+      "topic": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-28 08:54 UTC",
+      "status": "failed",
+      "topic": "The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-28 08:54 UTC",
+      "status": "failed",
+      "topic": "The SOC Doesn't Need to Start Over with Every Alert",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-09-28 08:54 UTC",
+      "status": "failed",
+      "topic": "Developers and platform teams both want Kubernetes self-service. They disagree on who owns it.",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-09-27 08:29 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Article Analysis &amp; Presentation",
       "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-20 07:53 UTC",
-      "status": "failed",
-      "topic": "Kubernetes can run AI inference. But can it count the real cost?",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-20 07:53 UTC",
-      "status": "failed",
-      "topic": "The AI visibility gap: Why great brands disappear from AI answers",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-19 07:30 UTC",
-      "status": "failed",
-      "topic": "OpenAI&#39;s Astra Just Beat Every CAPTCHA Level | AI Pulse #Shorts",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-19 07:30 UTC",
-      "status": "failed",
-      "topic": "Introducing terminal-use: Open-Source AI Agent Framework for CLI Automation #artificialintelligence",
-      "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
