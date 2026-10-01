@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-09-30 08:55 UTC",
+  "last_run": "2026-10-01 09:19 UTC",
   "status": "failed",
-  "topic": "Meta says Muse Spark 1.3 has frontier performance \u2014 but its best results come from a model developers can\u2019t broadly use yet",
+  "topic": "env zero Previews Control Plane for Agentic DevOps Workflows",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-10-01 09:19 UTC",
+      "status": "failed",
+      "topic": "env zero Previews Control Plane for Agentic DevOps Workflows",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-01 09:19 UTC",
+      "status": "failed",
+      "topic": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-01 09:19 UTC",
+      "status": "failed",
+      "topic": "CloudBees just committed to an AI-first pivot. Here\u2019s why it matters for enterprise DevOps teams",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-01 09:19 UTC",
+      "status": "failed",
+      "topic": "Microsoft AI\u2019s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-09-30 08:55 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "AWS outage hits major enterprises worldwide",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-24 07:46 UTC",
-      "status": "failed",
-      "topic": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-24 07:46 UTC",
-      "status": "failed",
-      "topic": "Connect Pushbullet + Snowflake | puq.ai Workflow Automation",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-22 07:55 UTC",
-      "status": "failed",
-      "topic": "GPT-6 Astra: \u0905\u092c AI \u0916\u0941\u0926 \u0915\u0930\u0947\u0917\u093e \u092a\u0942\u0930\u093e \u0915\u093e\u092e! \ud83d\ude31 \u0915\u094d\u092f\u093e \u092f\u0947 AGI \u0939\u0948? #shorts",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-22 07:55 UTC",
-      "status": "failed",
-      "topic": "Claude Code Adds AGENTS.md Fallback, Cutting Instruction File Sprawl",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
