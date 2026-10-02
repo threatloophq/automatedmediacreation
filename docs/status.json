@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-10-01 09:19 UTC",
+  "last_run": "2026-10-02 08:52 UTC",
   "status": "failed",
-  "topic": "env zero Previews Control Plane for Agentic DevOps Workflows",
+  "topic": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-10-02 08:52 UTC",
+      "status": "failed",
+      "topic": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-02 08:52 UTC",
+      "status": "failed",
+      "topic": "GPT-6 Launched: AI Race Just Exploded! \ud83d\udea8",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-02 08:52 UTC",
+      "status": "failed",
+      "topic": "Google\u2019s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-02 08:52 UTC",
+      "status": "failed",
+      "topic": "AWS AI Agent Surfaces Recommendations to Optimize Cloud Computing Environments",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-10-01 09:19 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Nexterity wants to automate the hard, dangerous part of pipefitting",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-25 08:07 UTC",
-      "status": "failed",
-      "topic": "Smoothing the Never-Ending Road to Modernization",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-25 08:07 UTC",
-      "status": "failed",
-      "topic": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-24 07:46 UTC",
-      "status": "failed",
-      "topic": "2026 Data Breach Costs: What It Means for Alaska Healthcare",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-24 07:46 UTC",
-      "status": "failed",
-      "topic": "AWS outage hits major enterprises worldwide",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
