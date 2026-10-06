@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-10-05 09:31 UTC",
+  "last_run": "2026-10-06 09:17 UTC",
   "status": "failed",
-  "topic": "TechCrunch Mobility: Reining in robotaxis",
+  "topic": "K3s vs. K8s: When lightweight Kubernetes distros win (and when they don\u2019t)",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-10-06 09:17 UTC",
+      "status": "failed",
+      "topic": "K3s vs. K8s: When lightweight Kubernetes distros win (and when they don\u2019t)",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-06 09:17 UTC",
+      "status": "failed",
+      "topic": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-06 09:17 UTC",
+      "status": "failed",
+      "topic": "What Kubernetes\u2019 \u201cmonolith\u201d lesson means for AI agent harnesses",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-06 09:17 UTC",
+      "status": "failed",
+      "topic": "HackerRank\u2019s AI interviewer offers a glimpse into what job interviews could become",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-10-05 09:31 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-29 08:56 UTC",
-      "status": "failed",
-      "topic": "OpenAI hat GPT-6.1 Astra gestoppt. Ein Grund: scope authorization. Das Modell blieb nicht in dem Rah",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-29 08:56 UTC",
-      "status": "failed",
-      "topic": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-28 08:54 UTC",
-      "status": "failed",
-      "topic": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-28 08:54 UTC",
-      "status": "failed",
-      "topic": "The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
