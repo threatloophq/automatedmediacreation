@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-10-06 09:17 UTC",
+  "last_run": "2026-10-07 09:07 UTC",
   "status": "failed",
-  "topic": "K3s vs. K8s: When lightweight Kubernetes distros win (and when they don\u2019t)",
+  "topic": "Dynatrace wants its AI agents to fix problems instead of adding alerts",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-10-07 09:07 UTC",
+      "status": "failed",
+      "topic": "Dynatrace wants its AI agents to fix problems instead of adding alerts",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-07 09:07 UTC",
+      "status": "failed",
+      "topic": "Google\u2019s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-07 09:07 UTC",
+      "status": "failed",
+      "topic": "You Can Run an Entire AI Lead Follow-Up From One Blueprint",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-07 09:07 UTC",
+      "status": "failed",
+      "topic": "Security Teams Are Fixing Vulnerabilities Faster Than Ever. So Why Is Software Getting Riskier?",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-10-06 09:17 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-30 08:55 UTC",
-      "status": "failed",
-      "topic": "Docker Introduces Open Sandbox Kit Spec for AI Agent Permissions",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-30 08:55 UTC",
-      "status": "failed",
-      "topic": "Pentagon Breach Confirmed - 3 Million Exposed, 9 Months Unencrypted",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-29 08:56 UTC",
-      "status": "failed",
-      "topic": "OpenAI Hacked Australian Government Health Data | Breaking 2025 #Shorts",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-09-29 08:56 UTC",
-      "status": "failed",
-      "topic": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
