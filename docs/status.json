@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-10-09 09:30 UTC",
+  "last_run": "2026-10-10 08:50 UTC",
   "status": "failed",
-  "topic": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+  "topic": "ChatGPT \u751f\u6210\u5716\u7247\u65c1\u908a\uff0c\u8981\u958b\u59cb\u51fa\u73fe\u5ee3\u544a\u4e86 #\u5b85\u8001\u5927\u6578\u4f4d #\u79d1\u6280\u5feb\u8a0a #ChatGPT #OpenAI #AI\u5de5\u5177 #AI\u751f\u5716 #\u6578\u4f4d\u5ee3\u544a",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-10-10 08:50 UTC",
+      "status": "failed",
+      "topic": "ChatGPT \u751f\u6210\u5716\u7247\u65c1\u908a\uff0c\u8981\u958b\u59cb\u51fa\u73fe\u5ee3\u544a\u4e86 #\u5b85\u8001\u5927\u6578\u4f4d #\u79d1\u6280\u5feb\u8a0a #ChatGPT #OpenAI #AI\u5de5\u5177 #AI\u751f\u5716 #\u6578\u4f4d\u5ee3\u544a",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-10 08:50 UTC",
+      "status": "failed",
+      "topic": "Most AI incident tools still leave a key decision to humans",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-10 08:50 UTC",
+      "status": "failed",
+      "topic": "Harness Acquires Augment Code Assets to Expand Reach into AI Coding",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-10 08:50 UTC",
+      "status": "failed",
+      "topic": "SonicWall Flaw Under Active Attack, Q3 Ransomware Hits Record High",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-10-09 09:30 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "AWS AI Agent Surfaces Recommendations to Optimize Cloud Computing Environments",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-03 08:29 UTC",
-      "status": "failed",
-      "topic": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-03 08:29 UTC",
-      "status": "failed",
-      "topic": "A live Kubernetes cluster can still have an ownership gap",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-02 08:52 UTC",
-      "status": "failed",
-      "topic": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-02 08:52 UTC",
-      "status": "failed",
-      "topic": "GPT-6 Launched: AI Race Just Exploded! \ud83d\udea8",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
