@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-10-11 09:12 UTC",
+  "last_run": "2026-10-12 09:38 UTC",
   "status": "failed",
-  "topic": "New Relic Debuts Command-Line Observability Tool for Developers and AI Agents",
+  "topic": "Amazon ECS now auto-repairs failing GPUs and instances. Here\u2019s why it matters for SREs.",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-10-12 09:38 UTC",
+      "status": "failed",
+      "topic": "Amazon ECS now auto-repairs failing GPUs and instances. Here\u2019s why it matters for SREs.",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-12 09:38 UTC",
+      "status": "failed",
+      "topic": "#186 News: Gemini 4, Claude Code Mods, JetBrains Air, OpenAI Dots, GPT-6.1 Sol, Qwen 4",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-12 09:38 UTC",
+      "status": "failed",
+      "topic": "Harness bought Augment\u2019s coding agents. The best feature hasn\u2019t shipped yet.",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-12 09:38 UTC",
+      "status": "failed",
+      "topic": "These execs think voice AI hasn\u2019t reached its ChatGPT moment yet",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-10-11 09:12 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Google\u2019s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
       "pillar": "Automation",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-05 09:31 UTC",
-      "status": "failed",
-      "topic": "Survey Surfaces Sharp Increase in Amount of Code Written by AI",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-05 09:31 UTC",
-      "status": "failed",
-      "topic": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-04 08:42 UTC",
-      "status": "failed",
-      "topic": "What is advanced threat response in cybersecurity?",
-      "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-04 08:42 UTC",
-      "status": "failed",
-      "topic": "AWS launches a local answer to TypeSafe\u2019s Jev decision model",
-      "pillar": "Cloud",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
