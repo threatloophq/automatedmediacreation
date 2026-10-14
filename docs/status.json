@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-10-13 09:41 UTC",
+  "last_run": "2026-10-14 07:56 UTC",
   "status": "failed",
-  "topic": "Microsoft president says UK is best placed to drive AI regulation",
+  "topic": "How do you reduce the cost of a data breach before it happens?",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-10-14 07:56 UTC",
+      "status": "failed",
+      "topic": "How do you reduce the cost of a data breach before it happens?",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-14 07:56 UTC",
+      "status": "failed",
+      "topic": "Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-14 07:56 UTC",
+      "status": "failed",
+      "topic": "GPT-6 just dropped and ChatGPT answers build their own interface",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-14 07:56 UTC",
+      "status": "failed",
+      "topic": "How to turn AI production feedback into better agents",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-10-13 09:41 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Google\u2019s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-07 09:07 UTC",
-      "status": "failed",
-      "topic": "You Can Run an Entire AI Lead Follow-Up From One Blueprint",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-07 09:07 UTC",
-      "status": "failed",
-      "topic": "Security Teams Are Fixing Vulnerabilities Faster Than Ever. So Why Is Software Getting Riskier?",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-06 09:17 UTC",
-      "status": "failed",
-      "topic": "K3s vs. K8s: When lightweight Kubernetes distros win (and when they don\u2019t)",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-06 09:17 UTC",
-      "status": "failed",
-      "topic": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
