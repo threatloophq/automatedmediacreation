@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-10-19 08:02 UTC",
+  "last_run": "2026-10-20 07:52 UTC",
   "status": "failed",
-  "topic": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+  "topic": "Can OpenAI Really Replace Legal Software?",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-10-20 07:52 UTC",
+      "status": "failed",
+      "topic": "Can OpenAI Really Replace Legal Software?",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-20 07:52 UTC",
+      "status": "failed",
+      "topic": "MiniMax just halved its token prices. Your AI agent bill may not follow.",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-20 07:52 UTC",
+      "status": "failed",
+      "topic": "AI agents turn one request into about 20. Kubernetes is evolving to handle it.",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-20 07:52 UTC",
+      "status": "failed",
+      "topic": "OpenCode hack exposes API keys amid AI distillation attacks",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-10-19 08:02 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "GPUs on Kubernetes are bring-your-own-everything, starting with the bill",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-13 09:41 UTC",
-      "status": "failed",
-      "topic": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-13 09:41 UTC",
-      "status": "failed",
-      "topic": "Kubernetes on cgroup v1 is dead. Here\u2019s what comes next.",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-12 09:38 UTC",
-      "status": "failed",
-      "topic": "Amazon ECS now auto-repairs failing GPUs and instances. Here\u2019s why it matters for SREs.",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-12 09:38 UTC",
-      "status": "failed",
-      "topic": "#186 News: Gemini 4, Claude Code Mods, JetBrains Air, OpenAI Dots, GPT-6.1 Sol, Qwen 4",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
