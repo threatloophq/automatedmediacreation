@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-10-25 07:47 UTC",
+  "last_run": "2026-10-26 08:03 UTC",
   "status": "failed",
-  "topic": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
+  "topic": "Is Kubernetes ready for AI agents?",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-10-26 08:03 UTC",
+      "status": "failed",
+      "topic": "Is Kubernetes ready for AI agents?",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-26 08:03 UTC",
+      "status": "failed",
+      "topic": "Capcom confirms data breach affecting 11.7 million accounts",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-26 08:03 UTC",
+      "status": "failed",
+      "topic": "Before you expand your GPU pool, measure the outcome",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-26 08:03 UTC",
+      "status": "failed",
+      "topic": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-10-25 07:47 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "AI agents vs. Kubernetes: where each belongs in the control loop",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-19 08:02 UTC",
-      "status": "failed",
-      "topic": "TechCrunch Mobility: Rivian\u2019s next act",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-19 08:02 UTC",
-      "status": "failed",
-      "topic": "AI agents vs. Kubernetes: where each belongs in the control loop",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-18 07:23 UTC",
-      "status": "failed",
-      "topic": "ChatGPT \u098f\u0996\u09a8 \u09a8\u09bf\u099c\u09c7\u0987 \u0995\u09be\u099c \u0995\u09b0\u09ac\u09c7! \ud83d\ude31 GPT-6, Dots \u0993 \u09a8\u09a4\u09c1\u09a8 AI \u09ab\u09bf\u099a\u09be\u09b0! #Shorts",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-18 07:23 UTC",
-      "status": "failed",
-      "topic": "AI agents turn one request into about 20. Kubernetes is evolving to handle it.",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
