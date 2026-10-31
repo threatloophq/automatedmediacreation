@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-10-30 08:53 UTC",
+  "last_run": "2026-10-31 08:44 UTC",
   "status": "failed",
-  "topic": "OpenAI\u91cd\u7533\uff0cAI\u4e0d\u80fd\u53d6\u4ee3\u4e13\u4e1a\u533b\u7597\uff01 #\u65b0\u95fb\u62a5\u62a5\u770b #\u56fd\u9645 #AI #OpenAI",
+  "topic": "Why Kubernetes platforms keep rebuilding a layer they could share",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-10-31 08:44 UTC",
+      "status": "failed",
+      "topic": "Why Kubernetes platforms keep rebuilding a layer they could share",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-31 08:44 UTC",
+      "status": "failed",
+      "topic": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-31 08:44 UTC",
+      "status": "failed",
+      "topic": "Cracks are emerging in the AI spending boom",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-10-31 08:44 UTC",
+      "status": "failed",
+      "topic": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-10-30 08:53 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-24 07:33 UTC",
-      "status": "failed",
-      "topic": "Microsoft AI\u2019s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-24 07:33 UTC",
-      "status": "failed",
-      "topic": "Five AI agent harnesses took the same memory test. The results weren\u2019t even close.",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-23 07:52 UTC",
-      "status": "failed",
-      "topic": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-23 07:52 UTC",
-      "status": "failed",
-      "topic": "Kubernetes 2.0 changes how teams deploy software",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
