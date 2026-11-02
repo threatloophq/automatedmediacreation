@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-11-01 09:34 UTC",
+  "last_run": "2026-11-02 09:51 UTC",
   "status": "failed",
-  "topic": "Shielding the patch gap: The exploit doesn\u2019t wait for Patch Tuesday",
+  "topic": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-11-02 09:51 UTC",
+      "status": "failed",
+      "topic": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-02 09:51 UTC",
+      "status": "failed",
+      "topic": "Kubernetes just formed a workload conformance group. Here\u2019s why it matters for AI teams.",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-02 09:51 UTC",
+      "status": "failed",
+      "topic": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-02 09:51 UTC",
+      "status": "failed",
+      "topic": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-11-01 09:34 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Capcom confirms data breach affecting 11.7 million accounts",
       "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-26 08:03 UTC",
-      "status": "failed",
-      "topic": "Before you expand your GPU pool, measure the outcome",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-26 08:03 UTC",
-      "status": "failed",
-      "topic": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-25 07:47 UTC",
-      "status": "failed",
-      "topic": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-25 07:47 UTC",
-      "status": "failed",
-      "topic": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation",
-      "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
