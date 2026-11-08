@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-11-07 09:06 UTC",
+  "last_run": "2026-11-08 09:23 UTC",
   "status": "failed",
-  "topic": "The Duo apps are coming, says Apple",
+  "topic": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-11-08 09:23 UTC",
+      "status": "failed",
+      "topic": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-08 09:23 UTC",
+      "status": "failed",
+      "topic": "Groundcover automates Kubernetes sizing. Engineers set the bounds.",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-08 09:23 UTC",
+      "status": "failed",
+      "topic": "OpenAI\u2019s Newest Model Hallucinated in a Biology Lab \ud83d\udd2c | #shorts #openai #biotech #science #technews",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-08 09:23 UTC",
+      "status": "failed",
+      "topic": "Next-Gen AI Automation Workflow Explained! #AIAutomation #TechShorts  #WorkflowAutomation",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-11-07 09:06 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "GPT and Claude Agents Just Started an AI Civilization War",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-01 09:34 UTC",
-      "status": "failed",
-      "topic": "Microsoft\u2019s new Copilot harness makes agents easy \u2014 until you want to switch",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-01 09:34 UTC",
-      "status": "failed",
-      "topic": "Busy GPUs can hide slow AI inference on Kubernetes",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-31 08:44 UTC",
-      "status": "failed",
-      "topic": "Why Kubernetes platforms keep rebuilding a layer they could share",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-10-31 08:44 UTC",
-      "status": "failed",
-      "topic": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
