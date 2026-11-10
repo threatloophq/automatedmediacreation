@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-11-09 10:09 UTC",
+  "last_run": "2026-11-10 10:20 UTC",
   "status": "failed",
-  "topic": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
+  "topic": "Kubernetes 2.0 changes how teams deploy software",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-11-10 10:20 UTC",
+      "status": "failed",
+      "topic": "Kubernetes 2.0 changes how teams deploy software",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-10 10:20 UTC",
+      "status": "failed",
+      "topic": "Is a Huge Cyber Attack Coming to the UK? \ud83d\udea8 #shorts #uk #cyberattack",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-10 10:20 UTC",
+      "status": "failed",
+      "topic": "Scaling an autonomous agent from one team to fifty: A serverless-to-container decision framework",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-10 10:20 UTC",
+      "status": "failed",
+      "topic": "Meta says Muse Spark 1.3 has frontier performance \u2014 but its best results come from a model developers can\u2019t broadly use yet",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-11-09 10:09 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Busy GPUs can hide slow AI inference on Kubernetes",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-03 09:55 UTC",
-      "status": "failed",
-      "topic": "Apple\u2019s inventory surges 154% as memory chip costs climb",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-03 09:55 UTC",
-      "status": "failed",
-      "topic": "Gemini- AI Workflow Automation Agent\u0e2a\u0e23\u0e49\u0e32\u0e07 Agent \u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34 \u0e25\u0e14\u0e20\u0e32\u0e23\u0e30\u0e07\u0e32\u0e19\u0e0b\u0e49\u0e33\u0e0b\u0e49\u0e2d\u0e19",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-02 09:51 UTC",
-      "status": "failed",
-      "topic": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-02 09:51 UTC",
-      "status": "failed",
-      "topic": "Kubernetes just formed a workload conformance group. Here\u2019s why it matters for AI teams.",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
