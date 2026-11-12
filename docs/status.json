@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-11-11 09:45 UTC",
+  "last_run": "2026-11-12 10:06 UTC",
   "status": "failed",
-  "topic": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
+  "topic": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-11-12 10:06 UTC",
+      "status": "failed",
+      "topic": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-12 10:06 UTC",
+      "status": "failed",
+      "topic": "Kubernetes 2.0 changes how teams deploy software",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-12 10:06 UTC",
+      "status": "failed",
+      "topic": "Microsoft Patches More Than 1,400 Security Flaws",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-12 10:06 UTC",
+      "status": "failed",
+      "topic": "New CNCF report: 75% of cloud-native developers ship code with AI. Jonathan Bryce explains why.",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-11-11 09:45 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
       "pillar": "Cybersecurity",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-05 09:46 UTC",
-      "status": "failed",
-      "topic": "AWS outage hits major enterprises worldwide",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-05 09:46 UTC",
-      "status": "failed",
-      "topic": "\u3010AI\u30cb\u30e5\u30fc\u30b9\u301111/5 OpenAI\u304c\u753b\u50cf\u751f\u6210AI\u30c4\u30fc\u30eb\u306eImages 2.6\u3092\u30ea\u30ea\u30fc\u30b9\u3001GIF\u751f\u6210\u306b\u5bfe\u5fdc\u3057\u7de8\u96c6\u5de5\u7a0b\u3092\u7d30\u304b\u304f\u5236\u5fa1\u53ef\u80fd #Shorts",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-04 09:42 UTC",
-      "status": "failed",
-      "topic": "[2/6 04:00 UTC] Anthropic and OpenAI release dueling models / Claude Opus 4.6 details\u2026",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-04 09:42 UTC",
-      "status": "failed",
-      "topic": "AI Story Generator \ud83e\udd2f | n8n Automation in Tamil #shorts #AIStoryGenerator #n8n #AIAutomation",
-      "pillar": "Automation",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
