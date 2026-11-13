@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-11-12 10:06 UTC",
+  "last_run": "2026-11-13 09:53 UTC",
   "status": "failed",
-  "topic": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
+  "topic": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-11-13 09:53 UTC",
+      "status": "failed",
+      "topic": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-13 09:53 UTC",
+      "status": "failed",
+      "topic": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-13 09:53 UTC",
+      "status": "failed",
+      "topic": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-13 09:53 UTC",
+      "status": "failed",
+      "topic": "AWS had its agents build a free and open emulator for AWS. They now maintain it, too.",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-11-12 10:06 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "OpenAI Releases GPT-6 Cyber for Security Work | AI News Today",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-06 09:43 UTC",
-      "status": "failed",
-      "topic": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-06 09:43 UTC",
-      "status": "failed",
-      "topic": "Groundcover automates Kubernetes sizing. Engineers set the bounds.",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-05 09:46 UTC",
-      "status": "failed",
-      "topic": "Kubernetes 2.0 changes how teams deploy software",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-05 09:46 UTC",
-      "status": "failed",
-      "topic": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
