@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-11-13 09:53 UTC",
+  "last_run": "2026-11-14 09:17 UTC",
   "status": "failed",
-  "topic": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+  "topic": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-11-14 09:17 UTC",
+      "status": "failed",
+      "topic": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-14 09:17 UTC",
+      "status": "failed",
+      "topic": "Anthropic now lets you self-host Claude Managed Agents. The catch? 8 hours to act if it flags a safety risk",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-14 09:17 UTC",
+      "status": "failed",
+      "topic": "Kubernetes 2.0 changes how teams deploy software",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-14 09:17 UTC",
+      "status": "failed",
+      "topic": "UK: 80% Chance AI Ransomware Hits by 2028",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-11-13 09:53 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Groundcover automates Kubernetes sizing. Engineers set the bounds.",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-07 09:06 UTC",
-      "status": "failed",
-      "topic": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-07 09:06 UTC",
-      "status": "failed",
-      "topic": "Kubernetes, mark II? Why Google\u2019s giving away gVisor, a code sandbox used by Anthropic and OpenAI",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-06 09:43 UTC",
-      "status": "failed",
-      "topic": "Groundcover automates Kubernetes sizing. Engineers set the bounds.",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-06 09:43 UTC",
-      "status": "failed",
-      "topic": "OpenAI Releases GPT-6 Cyber for Security Work | AI News Today",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
