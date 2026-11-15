@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-11-14 09:17 UTC",
+  "last_run": "2026-11-15 09:47 UTC",
   "status": "failed",
-  "topic": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+  "topic": "Kubernetes 2.0 changes how teams deploy software",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-11-15 09:47 UTC",
+      "status": "failed",
+      "topic": "Kubernetes 2.0 changes how teams deploy software",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-15 09:47 UTC",
+      "status": "failed",
+      "topic": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-15 09:47 UTC",
+      "status": "failed",
+      "topic": "The unfolding Jensen Huang scandal: a timeline",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-15 09:47 UTC",
+      "status": "failed",
+      "topic": "AI agent startup LangChain hits $3B valuation",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-11-14 09:17 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Groundcover automates Kubernetes sizing. Engineers set the bounds.",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-08 09:23 UTC",
-      "status": "failed",
-      "topic": "OpenAI\u2019s Newest Model Hallucinated in a Biology Lab \ud83d\udd2c | #shorts #openai #biotech #science #technews",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-08 09:23 UTC",
-      "status": "failed",
-      "topic": "Next-Gen AI Automation Workflow Explained! #AIAutomation #TechShorts  #WorkflowAutomation",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-07 09:06 UTC",
-      "status": "failed",
-      "topic": "The Duo apps are coming, says Apple",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-07 09:06 UTC",
-      "status": "failed",
-      "topic": "Groundcover automates Kubernetes sizing. Engineers set the bounds.",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
