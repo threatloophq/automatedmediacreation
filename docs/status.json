@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-11-18 10:32 UTC",
+  "last_run": "2026-11-19 10:43 UTC",
   "status": "failed",
-  "topic": "Court clears brothers of $25 million Ethereum crypto heist charges",
+  "topic": "Google\u2019s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-11-19 10:43 UTC",
+      "status": "failed",
+      "topic": "Google\u2019s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+      "pillar": "AI",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-19 10:43 UTC",
+      "status": "failed",
+      "topic": "How Orkes ParticleDB turns an impressive demo into a remarkable application",
+      "pillar": "Automation",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-19 10:43 UTC",
+      "status": "failed",
+      "topic": "Kubernetes 2.0 changes how teams deploy software",
+      "pillar": "DevOps",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-19 10:43 UTC",
+      "status": "failed",
+      "topic": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+      "pillar": "Cybersecurity",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-11-18 10:32 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Kubernetes 2.0 changes how teams deploy software",
       "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-12 10:06 UTC",
-      "status": "failed",
-      "topic": "Microsoft Patches More Than 1,400 Security Flaws",
-      "pillar": "Cybersecurity",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-12 10:06 UTC",
-      "status": "failed",
-      "topic": "New CNCF report: 75% of cloud-native developers ship code with AI. Jonathan Bryce explains why.",
-      "pillar": "Cloud",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-11 09:45 UTC",
-      "status": "failed",
-      "topic": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
-      "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-11 09:45 UTC",
-      "status": "failed",
-      "topic": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
-      "pillar": "AI",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
