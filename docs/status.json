@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-11-19 10:43 UTC",
+  "last_run": "2026-11-20 10:43 UTC",
   "status": "failed",
-  "topic": "Google\u2019s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+  "topic": "How Amazon ECS handles blue/green, canary, and linear deployments",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-11-20 10:43 UTC",
+      "status": "failed",
+      "topic": "How Amazon ECS handles blue/green, canary, and linear deployments",
+      "pillar": "DevOps",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-20 10:43 UTC",
+      "status": "failed",
+      "topic": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-20 10:43 UTC",
+      "status": "failed",
+      "topic": "The unfolding Jensen Huang scandal: a timeline",
+      "pillar": "Cloud",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-20 10:43 UTC",
+      "status": "failed",
+      "topic": "\u0e2a\u0e23\u0e38\u0e1b\u0e02\u0e48\u0e32\u0e27 AI \u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c\u0e19\u0e35\u0e49 5 \u0e02\u0e48\u0e32\u0e27 CEO Nvidia \u0e25\u0e32\u0e2d\u0e2d\u0e01 GPT-6.2 \u0e0a\u0e34\u0e1b AI \u0e44\u0e17\u0e22\u0e42\u0e14\u0e19\u0e04\u0e38\u0e21 #Shorts",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-11-19 10:43 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "Nebius tests the neocloud playbook with $40 billion in planned spending",
       "pillar": "Cloud",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-13 09:53 UTC",
-      "status": "failed",
-      "topic": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "pillar": "AI",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-13 09:53 UTC",
-      "status": "failed",
-      "topic": "AWS had its agents build a free and open emulator for AWS. They now maintain it, too.",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-12 10:06 UTC",
-      "status": "failed",
-      "topic": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
-      "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-12 10:06 UTC",
-      "status": "failed",
-      "topic": "Kubernetes 2.0 changes how teams deploy software",
-      "pillar": "DevOps",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
