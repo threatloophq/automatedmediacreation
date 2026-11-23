@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-11-22 10:08 UTC",
+  "last_run": "2026-11-23 11:05 UTC",
   "status": "failed",
-  "topic": "Even the fastest AI clusters can be held back by their release pipelines",
+  "topic": "S5 \u2013 Episode 012 \u2013 REvil: The Ransomware Group that Disappeared",
   "youtube_url": "",
   "instagram_url": "",
   "history": [
+    {
+      "last_run": "2026-11-23 11:05 UTC",
+      "status": "failed",
+      "topic": "S5 \u2013 Episode 012 \u2013 REvil: The Ransomware Group that Disappeared",
+      "pillar": "Cybersecurity",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-23 11:05 UTC",
+      "status": "failed",
+      "topic": "\u201cWe are not querying like humans anymore\u201d: OpenSearch\u2019s Bianca Lewis on why AI agent mistakes look like successes",
+      "pillar": "Cloud",
+      "video_type": "long_form",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-23 11:05 UTC",
+      "status": "failed",
+      "topic": "Even the fastest AI clusters can be held back by their release pipelines",
+      "pillar": "AI",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    {
+      "last_run": "2026-11-23 11:05 UTC",
+      "status": "failed",
+      "topic": "\u201cIt is a rollercoaster ride\u201d: Angie Jones of the Agentic AI Foundation on keeping up with AI agents",
+      "pillar": "Automation",
+      "video_type": "short",
+      "youtube_url": "",
+      "instagram_url": "",
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
     {
       "last_run": "2026-11-22 10:08 UTC",
       "status": "failed",
@@ -260,46 +300,6 @@
       "status": "failed",
       "topic": "OpenAI \u0437\u0434\u0438\u0432\u0443\u0432\u0430\u0432: GPT 5",
       "pillar": "AI",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-16 10:04 UTC",
-      "status": "failed",
-      "topic": "Anthropic now lets you self-host Claude Managed Agents. The catch? 8 hours to act if it flags a safety risk in the software",
-      "pillar": "Automation",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-16 10:04 UTC",
-      "status": "failed",
-      "topic": "Kubernetes 2.0 changes how teams deploy software",
-      "pillar": "DevOps",
-      "video_type": "short",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-15 09:47 UTC",
-      "status": "failed",
-      "topic": "Kubernetes 2.0 changes how teams deploy software",
-      "pillar": "DevOps",
-      "video_type": "long_form",
-      "youtube_url": "",
-      "instagram_url": "",
-      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
-    },
-    {
-      "last_run": "2026-11-15 09:47 UTC",
-      "status": "failed",
-      "topic": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "pillar": "Cybersecurity",
       "video_type": "long_form",
       "youtube_url": "",
       "instagram_url": "",
